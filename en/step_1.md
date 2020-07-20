@@ -19,7 +19,9 @@ Click on the green flag to see an example project:
 --- /no-print ---
 
 --- print-only ---
-![Complete project](showcase_static.png){:width="400px"}
+
+![Complete project](images/showcase_static.png){:width="400px"}
+
 --- /print-only ---
 
 --- collapse ---
