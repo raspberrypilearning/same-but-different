@@ -20,7 +20,7 @@ Click on the green flag to see an example project:
 
 --- print-only ---
 
-![Complete project](images/showcase_static.png){:width="400px"}
+![Complete project](images/showcase_static.png){:width="420px"}
 
 --- /print-only ---
 
