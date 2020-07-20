@@ -1,14 +1,14 @@
 ## Choose your theme
-Now it's time to think about your project. What will you make? You need to make a Looping sprites project to change someone's mood. The theme and the way the sprites move is up to you.
+Now it's time to think about your project. What will you make? You need to make a Same but different project to focus the mind. The theme and the way the sprites move is up to you.
 
-Get ideas for your own Looping sprites project by investigating projects created by others. 
+Get ideas for your own Same but different project by investigating projects created by others. 
 
 --- task ---
-Go to the [Looping sprites](https://scratch.mit.edu/studios/27014672){:target="_blank"} Scratch studio.
+Go to the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. Each sprite has a different **algorithm** which makes each sprite's movement unique.
+Click 'See inside' to investigate how the projects were made. TAKEN OUT...
 
-**Tip:** Professional programmers explore, and are inspired by, code created by other programmers.
+**Tip:** Investigating a Scratch project block by block is a great way to understand how the program works.
 
 ![See inside icon](images/see_inside.png)
 
@@ -22,10 +22,10 @@ Create a new Scratch project to start trying out your ideas.
 --- task ---
 Take 5 minutes to think about **your** Looping sprites project. 
 
-+ What mood do you want to create? Relaxing, Energising, Funny?
++ What theme do you want to create?
 + Look at the sprites and backdrops that are available in Scratch.
 + Which backdrop will you choose? 
-+ Which sprite(s) will you choose? (You will just start with one sprite and add more if you have time.)
++ Which sprite(s) will you choose? Will you choose sprites that alreay have costumes or will you create your own costumes?
 
 --- /task ---
 
@@ -36,7 +36,7 @@ Choose and add a backdrop of your choice. You can change it later as you develop
 --- /task ---
 
 --- task ---
-Choose and add your first sprite. You will be able to add more sprites later if you have time. 
+Choose and add your first sprite.
 
 [[[generic-scratch-sprite-from-library]]]
 --- /task ---
@@ -47,6 +47,9 @@ Give your project a title that matches your theme.
 **generic-scratch-title with gif**
 
 --- /task ---
+
+TAKEN OUT...
+Each sprite has a different **algorithm** which makes each sprite's movement unique.
 
 *[algorithm]: A set of precise instructions for performing a task.
 
