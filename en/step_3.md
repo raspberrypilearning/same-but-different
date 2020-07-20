@@ -1,12 +1,14 @@
 ## Develop a sprite's costume FROM Get a sprite moving
-Now it is time to get your first sprite working with its costumes first. You will start with one sprite and then add more. 
+TRACY, USER OR PLAYER?
 
-The first sprite will `switch`{:class="block3looks"} costume within a `forever`{:class="block3control"} loop. 
+Now it is time to get your first sprite working with two costumes. You will start with the sprite with the surprise and then add more. 
+
+The first sprite will `switch`{:class="block3looks"} costumes at the beginning of the game so the user can see which sprite it the one they're meant to be focusing on.
 
 --- task ---
 
 --- task ---
-Copy the sprite's first costume and now add a surprise to the second costume.
+Copy the sprite's first costume.
 
 [[[generic-scratch-copy-costume-from-library]]]
 --- /task ---
@@ -37,9 +39,11 @@ Look at the code and understand how it makes the costumes change.
 --- /task ---
 
 --- task ---
-Think about how you want your sprite to be animated. For example, you might say "I want my sprite to reveal the surprise from inside itself" (hen laying egg, "I want my sprite to reveal the surprise from outside itself" (idea doughnut), and/or "I want my sprite to react to the surprise" (character's eyes following idea doughnut).
+Now add a surprise to the second costume. Don't spend ages on the graphics. Graphics are really important but there's lots of coding to get on with as well!
 
-In your project, will need to select the correct costume names within the `switch`{:class="block3looks"} costume block to create your chosen animation. Don't spend ages on the graphics. Graphics are important but there's lots of coding to get on with as well!
+Think about how you want your sprite to be animated. For example, you might say "I want my sprite to reveal the surprise from inside itself" (doughnut in tummy), "I want my sprite to reveal the surprise from outside itself" (idea doughnut), and/or "I want my sprite to react to the surprise" (character's eyes following idea doughnut).
+
+In your project, will need to select the correct costume names within the `switch`{:class="block3looks"} costume block to create your chosen animation. 
 --- /task ---
 
 --- task ---
@@ -48,14 +52,15 @@ Select your first sprite and click on the Code tab.
 --- /task ---
 
 --- task ---
-Add code to make your sprite move around the stage in a forever loop, bouncing off the edges of the stage. 
-
-**Add me in: generic-scratch-if-on-edge-bounce **
+Add code to make your sprite change costume.
 
 --- /task ---
 
 --- task ---
-Change the speed and direction of your sprite to get the effect you want. 
+To start with, give the first sprite a starting position.
+
+
+Add a broadcast block to let all the sprites and direction of your sprite to get the effect you want. 
 
 --- /task ---
 
