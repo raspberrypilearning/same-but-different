@@ -1,0 +1,11 @@
+title: same-but-different
+hero_image: images/banner.png
+description: same-but-different description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-07-20"
+steps:
+  - title: Introduction
+  - title: Step title
+  - title: What next?
