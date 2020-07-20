@@ -6,9 +6,11 @@ Get ideas for your own Same but different project by investigating projects crea
 --- task ---
 Go to the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. TAKEN OUT...
+Click 'See inside' to investigate how the projects were made. Investigate the costumes. Note, that in the example projects the first sprite's costume is made up of the original sprite costume plus a second costume which also includes the surprise. In the example projects, the rabbit pops up out of the hat, the chicken lay a egg and a triplet eats the doughnut. If you look closely you will see other slight changes which make the sprites more animated and engaging.
 
 **Tip:** Investigating a Scratch project block by block is a great way to understand how the program works.
+TRACY OR,
+**Tip:** Adapting costumes is a great way to simply create an animated sprite.
 
 ![See inside icon](images/see_inside.png)
 
@@ -39,12 +41,6 @@ Choose and add a backdrop of your choice. You can change it later as you develop
 Choose and add your first sprite.
 
 [[[generic-scratch-sprite-from-library]]]
---- /task ---
-
---- task ---
-Choose and add a surprise costume to the first sprite.
-
-[[[generic-scratch-costume-from-library]]]
 --- /task ---
 
 --- task ---
