@@ -1,13 +1,13 @@
 ## Get a sprite moving
-Now it is time to get your first sprite moving. You will start with one sprite and then add more. 
+Now it is time to get your first sprite working with its costumes. You will start with one sprite and then add more. 
 
 Each sprite will `move`{:class="block3motion"} within a `forever`{:class="block3control"} loop. 
 
 --- task ---
-This sprite moves up and down the stage, changing direction when it hits the top or bottom. 
+When the `green flag clicked`{:class="block3contol"}, the sprite changes from its original costume to a surprise costume and then back again. You will need to select the correct costume names for your project. Note,  the surprise costume is
 
 --- no-print ---
-![Animated gif showing path of sprite](images/moving-up-down.gif){:width="400px"}
+![Animated gif showing costume changing](images/moving-up-down.gif){:width="400px"}
 --- /no-print ---
 
 --- print-only ---
@@ -18,13 +18,12 @@ Here's the code it uses:
 
 ```blocks3
 when flag clicked
-set rotation style [don't rotate v]
-point in direction (0)
-set size to (100) %
-forever
-move (5) steps
-if on edge, bounce
-end
++ go to x: (150) y: (0)
+switch costume to [character1 v]
+wait (1) seconds
+switch costume to [character2 v]
+wait (2) seconds
+switch costume to [character1 v]
 ```
 
 Look at the code and understand how it makes the sprite move.
