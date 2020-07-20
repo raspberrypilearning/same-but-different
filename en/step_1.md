@@ -1,10 +1,12 @@
 ## Introduction
-You're going to create a project to try and change someone's mood using sprites that move over a backdrop. You will choose a theme for your project such as relaxing, energising, funny, inspiring or something else - it's your choice.
+You’re going to create a fun game to try and improve a user’s concentration and help them focus and relax. You will choose a theme for your project.
 
 ## Skills you should have
-To complete this Looping sprites project you need to have the following skills which you will have learnt when completing [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/butterfly-garden):
-- How to use costumes
-- How to use the `forever`{:class="block3control"} block
+To complete this Same but different project you need to have the following skills which you will have learnt when completing [Focus on the prize]
+ [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize):
+- How to use `broadcasts`{:class="block3control"} to communicate between sprites
+- How to detect when two sprites are `touching`{:class="block3sense"} each other
+- How to use `and`{:class="block3operators"} and `not`{:class="block3operators"} Boolean operators 
 
 You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique animation.
 
@@ -12,7 +14,7 @@ You will now apply these skills to create your own project where you will choose
 --- no-print ---
 Click on the green flag to see an example project:
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407384474/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/411558897/?autostart=false" frameborder="0"></iframe>
 </div>
 --- /no-print ---
 
@@ -38,10 +40,17 @@ title: What you will need
 ---
 title: What you will learn
 ---
+TRACY, WHAT AIMS TO PUT IN?
 
 + How to apply your skills to realise your own project ideas
 + How to debug your program
 + How to reflect on your learning
+
++ How to select suitable sprites to match your ideas
++ How to adapt costumes to create a realistic animation
++ How to adapt a sprite’s position and movement to create a working game
++ How to change each sprite’s touching colour ? so they can avoid touching each other
++ How to identify which sprites, costumes, values (Motion block and touching colour ?) to adapt in order to realise your creative ideas
 
 --- /collapse ---
 
@@ -49,6 +58,7 @@ title: What you will learn
 ---
 title: Additional information for educators
 ---
+TRACY, DO WE NEED A STARTER PROJECT?
 
 [Here](http://rpf.io/project-name-go) is a link to the resources for this project.
 
