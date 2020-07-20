@@ -2,8 +2,7 @@
 You’re going to create a fun game to try and improve a user’s concentration and help them focus and relax. You will choose a theme for your project.
 
 ## Skills you should have
-To complete this Same but different project you need to have the following skills which you will have learnt when completing [Focus on the prize]
- [Butterfly garden](https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize):
+To complete this Same but different project you need to have the following skills which you will have learnt when completing [Focus on the prize]https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize):
 - How to use `broadcasts`{:class="block3control"} to communicate between sprites
 - How to detect when two sprites are `touching`{:class="block3sense"} each other
 - How to use `and`{:class="block3operators"} and `not`{:class="block3operators"} Boolean operators 
@@ -11,6 +10,7 @@ To complete this Same but different project you need to have the following skill
 You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique animation.
 
 ## What you will make
+ADD IN images/ WHEN YOU HAVE CREATE THE FOLDER!
 --- no-print ---
 Click on the green flag to see an example project:
 <div class="scratch-preview">
@@ -19,7 +19,7 @@ Click on the green flag to see an example project:
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png){:width="400px"}
+![Complete project](showcase_static.png){:width="400px"}
 --- /print-only ---
 
 --- collapse ---
