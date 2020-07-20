@@ -1,5 +1,5 @@
 ## Choose your theme
-Now it's time to think about your project. What will you make? You need to make a Same but different project to focus the mind. The theme and the way the sprites move is up to you.
+Now it's time to think about your project. What will you make? You need to make a Same but different project to focus the mind. The theme and the sprites and costumes is up to you.
 
 Get ideas for your own Same but different project by investigating projects created by others. 
 
@@ -39,6 +39,12 @@ Choose and add a backdrop of your choice. You can change it later as you develop
 Choose and add your first sprite.
 
 [[[generic-scratch-sprite-from-library]]]
+--- /task ---
+
+--- task ---
+Choose and add a surprise costume to the first sprite.
+
+[[[generic-scratch-costume-from-library]]]
 --- /task ---
 
 --- task ---
