@@ -10,7 +10,6 @@ To complete this Same but different project you need to have the following skill
 You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique animation.
 
 ## What you will make
-ADD IN images/ WHEN YOU HAVE CREATE THE FOLDER!
 
 --- no-print ---
 Click on the green flag to see an example project:
