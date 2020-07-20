@@ -11,6 +11,7 @@ You will now apply these skills to create your own project where you will choose
 
 ## What you will make
 ADD IN images/ WHEN YOU HAVE CREATE THE FOLDER!
+
 --- no-print ---
 Click on the green flag to see an example project:
 <div class="scratch-preview">
