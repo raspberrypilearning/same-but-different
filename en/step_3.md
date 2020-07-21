@@ -30,11 +30,15 @@ When the `green flag clicked`{:class="block3events"}, the sprite changes from it
 
 TRACY, HOW SHOULD THE BELOW EXAMPLES  WORK?
 --- no-print ---
+
 ![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
+
 --- /no-print ---
 
 --- print-only ---
+
 ![Image annotated with costume changing](images/character + doughnut + eyes.gif){:width="400px"}
+
 --- /print-only ---
 
 --- task ---
