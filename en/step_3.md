@@ -77,11 +77,11 @@ Give the first sprite a starting position. The place you want your first sprite 
 ```blocks3
 go to x: (-150) y: (50)
 ```
-Drag the `go to x: () y: ()`{:class="block3motion"} block below the `green flag clicked`{:class="block3events"}.
+Place the `go to x: () y: ()`{:class="block3motion"} block below the `green flag clicked`{:class="block3events"}.
 --- /task ---
 
 --- task ---
-Run your program to check it is working as you planned.
+Run your program to check it is working.
 
 TRACY, ANYMORE ON DEBUGGING?
 
@@ -92,7 +92,7 @@ Is your sprite the size you want it to be? If not, adjust its size.
 
 **Add me in: generic-scratch-change-size **
 
-Drag the `set size to ()?`{:class="block3looks"} block between the `green flag clicked`{:class="block3events"} and the `go to x: () y: ()`{:class="block3motion"}  block.
+Place the `set size to ()?`{:class="block3looks"} block between the `green flag clicked`{:class="block3events"} and the `go to x: () y: ()`{:class="block3motion"}  blocks.
 
 --- /task ---
 
