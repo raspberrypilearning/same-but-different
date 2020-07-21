@@ -26,12 +26,11 @@ Here's the code it uses:
 
 ```blocks3
 when flag clicked
-+ go to x: (150) y: (0)
-switch costume to [character1 v]
++ switch costume to [character1 v]
 wait (1) seconds
-switch costume to [character2 v]
++ switch costume to [character2 v]
 wait (2) seconds
-switch costume to [character1 v]
++ switch costume to [character1 v]
 ```
 Look at the code and understand how it makes the costumes change.
 
@@ -56,8 +55,9 @@ Add code to make your sprite change costume.
 --- /task ---
 
 --- task ---
-To start with, give the first sprite a starting position.
+To start with, give the first sprite a starting position. The place you want your first sprite to start will varyaccording to your project. For instance, in [Which Triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897) the starting position of the  first sprite  is set so it appear to stand on the ground of the backdrop.
 
+go to x: (150) y: (0)
 
 Add a broadcast block to let all the sprites and direction of your sprite to get the effect you want. 
 
