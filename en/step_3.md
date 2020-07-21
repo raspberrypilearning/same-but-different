@@ -28,7 +28,8 @@ Rename the costumes so they are easy to recognise. For example, ChosenName1, Cho
 
 When the `green flag clicked`{:class="block3events"}, the sprite changes from its first costume to its second surprise costume and then back to its first costume  again. You may create a third costume later but we don't need to think about that for now.
 
-TRACY, HOW SHOULD THE BELOW EXAMPLES  WORK?
+TRACY, HOW SHOULD THE BELOW EXAMPLES WORK?
+
 --- no-print ---
 
 ![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
