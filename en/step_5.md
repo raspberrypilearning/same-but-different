@@ -1,4 +1,6 @@
-## Duplicate first sprite
+## Repeat until not touching colour
+
+Duplicate first sprite
 
 --- task ---
 
