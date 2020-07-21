@@ -107,7 +107,7 @@ broadcast [move v] and wait :: control
 --- /task ---
 
 --- task ---
-Your program should now look like the below but with all the values filled in:
+Your program should now look like the below but with values filled in to suit your project:
 
 ```blocks3
 when flag clicked
@@ -121,8 +121,18 @@ wait ( ) seconds
 wait (  ) seconds
 broadcast [move v] and wait :: control
 ```
+
+Code tracing is a good way to check how and if your program will work before running it.
+
+--- /task ---
+
+--- task ---
+
 Remember to keep running your project to test it. Is the program working as you had planned?
 
 --- /task ---
 
 --- save ---
+
+*[code tracing]: simulating the execution of code by hand in order to manually check that the code works correctly before you run it.
+
