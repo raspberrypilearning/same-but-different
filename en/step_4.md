@@ -50,7 +50,7 @@ OR
 ```blocks3
 glide () secs to x: () (pick random  ()  to ()  :: operators )  :: motion
 ```
-In [Which triplet ate the doughnut](https://scratch.mit.edu/projects/411558897/editor/) the first sprite has a randon x  value and a fixed y value so the triplets move alond  the same y path so they appear to be gliding along the pavement.
+For example, in [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor/) the first sprite has a randon x  value and a fixed y value so the triplets move alond  the same y path so they appear to be gliding along the pavement.
 
 **Tip:**: Linking a sprite's motion to the backdrop graphics can make your project more realistic.
 
