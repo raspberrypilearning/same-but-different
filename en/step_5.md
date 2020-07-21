@@ -1,6 +1,10 @@
 ## Repeat until not touching colour
 
-So that  the sprites do not end up on top of each other one the repeat has completed you need to add a Boolean.
+To make sure the sprites do not end up on top of each other you need to add a repeat until has completed you need to add a Boolean.
+repat until not tocuhing one another
+
+This will ensure the sprites keep moving until they are not touching one another. During  that time they will move in the same way as the repeat.
+
 --- task ---
 
 Duplicate your first sprite to create the starting point for your next sprite.
