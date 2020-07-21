@@ -111,14 +111,14 @@ Your program should now look like this:
 
 ```blocks3
 when flag clicked
-set size to [] %` :: looks
-go to x: (-150) y: (50)
+set size to [ ] %` :: looks
+go to x: ( ) y: ( )
 + switch costume to [Costume1 v]
-wait (1) seconds
+wait ( ) seconds
 + switch costume to [CostumeSurprise2 v]
-wait (2) seconds
+wait ( ) seconds
 + switch costume to [Costume1 v]
-wait (2) seconds
+wait (  ) seconds
 broadcast [move v] and wait :: control
 ```
 Remember to keep running your project to test it. Is the program working as you had planned?
