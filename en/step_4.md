@@ -1,5 +1,6 @@
 ** Duplicate first sprite
 
+--- task ---
 Duplicate your first sprite to create the starting point for your next sprite.
 
 **Add me in: scratch-duplicating-sprite**
