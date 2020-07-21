@@ -1,7 +1,7 @@
 ## Develop a sprite's costume FROM Get a sprite moving
 TRACY, USER OR PLAYER?
 
-Now it is time to get your first sprite working with two costumes. You will start with the sprite with the surprise and then add more. 
+Now it is time to get your first sprite working with two costumes. You will start with the first sprite with the surprise and then add more. 
 
 The first sprite will `switch`{:class="block3looks"} costumes at the beginning of the game so the user can see which sprite it the one they're meant to be focusing on.
 
@@ -10,10 +10,9 @@ The first sprite will `switch`{:class="block3looks"} costumes at the beginning o
 --- task ---
 Copy the sprite's first costume.
 
-[[[generic-scratch-copy-costume-from-library]]]
 --- /task ---
 
-When the `green flag clicked`{:class="block3contol"}, the sprite changes from its original costume to its original costume plus a surprise graphic and then back again to the original costume.
+When the `green flag clicked`{:class="block3contol"}, the sprite changes from its first costume to its second surprise costume and then back again to the first costume.
 
 --- no-print ---
 ![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
