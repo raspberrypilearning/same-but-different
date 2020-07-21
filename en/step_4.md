@@ -13,7 +13,7 @@ glide () secs to [random position v] :: motion
 
 Decide how many times you want the first sprite to `repeat`{:class="block3control"} gliding to a random position and how many `seconds`{:class="block3motion"} you want it to glide for.
 
---- task ---
+--- /task ---
 
 --- task ---
 Run your program.
