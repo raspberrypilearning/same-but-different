@@ -42,11 +42,11 @@ Here's the code the first sprite uses:
 
 ```blocks3
 when flag clicked
-+ switch costume to [character1 v]
++ switch costume to [Costume1 v]
 wait (1) seconds
-+ switch costume to [character2 v]
++ switch costume to [CostumeSurprise2 v]
 wait (2) seconds
-+ switch costume to [character1 v]
++ switch costume to [Costume1 v]
 ```
 Look at the code and understand how it makes the costumes change.
 
