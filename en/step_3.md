@@ -1,4 +1,4 @@
-## Develop a sprite's costume FROM Get a sprite moving
+## Develop a sprite's costume
 TRACY, USER OR PLAYER?
 
 Now it is time to get your first sprite working with two costumes. You will start with the first sprite with the surprise and then add more. 
@@ -97,7 +97,7 @@ Place the `set size to ()?`{:class="block3looks"} block between the `green flag 
 --- /task ---
 
 --- task ---
-At the end of the program you can now add a broadcast block to let all the sprites know that they can now begin their programs.
+At the end of the program you can now add a broadcast block to let all the sprites know that they can now begin their programs simultaneously.
 
 ```blocks3
 broadcast [move v] and wait :: control
