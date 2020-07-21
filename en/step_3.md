@@ -8,7 +8,7 @@ The first sprite will `switch`{:class="block3looks"} costumes at the beginning o
 --- task ---
 Copy the sprite's first costume to create a second surprise costume.
 
-**add a generic-scratch-copy-costume-from-library**
+**Add me in: generic-scratch-copy-costume-from-library**
 
 --- /task ---
 
@@ -41,32 +41,36 @@ Now add a surprise to the second costume. Don't spend ages on the graphics. Grap
 
 Think about how you want your sprite to be animated. For example, you might say "I want my sprite to reveal the surprise from inside itself" (doughnut in tummy), "I want my sprite to reveal the surprise from outside itself" (idea doughnut), and/or "I want my sprite to react to the surprise" (character's eyes following idea doughnut).
 
-In your project, will need to select the correct costume names within the `switch`{:class="block3looks"} costume block to create your chosen animation. 
 --- /task ---
 
 --- task ---
-Select your first sprite and click on the Code tab. 
+Select your first sprite and click on its Code tab. 
 
 --- /task ---
 
 --- task ---
 Add code to make your sprite change costume.
 
+In your project, don't forget to select from the dropdown the correct costume names within the `switch`{:class="block3looks"} costume block to create your chosen animation. 
+
+
 --- /task ---
 
 --- task ---
-To start with, give the first sprite a starting position. The place you want your first sprite to start will varyaccording to your project. For instance, in [Which Triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897) the starting position of the  first sprite  is set so it appear to stand on the ground of the backdrop.
+To start with, give the first sprite a starting position. The place you want your first sprite to start will vary according to your project  idea. For instance, in [Which Triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897) the starting position of the  first sprite is set so it appears to stand on the ground of the backdrop.
 
+```blocks3
 go to x: (150) y: (0)
-
-Add a broadcast block to let all the sprites and direction of your sprite to get the effect you want. 
+```
 
 --- /task ---
 
 --- task ---
-You may need to change the way your sprite's costume rotates when it moves to stop it going upside down.
+At the end of the  program now add a broadcast block to let all the sprites know that they can now begin their programs.
 
-**Add me in: scratch-rotate-costume **
+```blocks3
+broadcast [move v] and wait :: control
+```
 
 --- /task ---
 
