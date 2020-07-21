@@ -52,6 +52,7 @@ wait (1) seconds
 + switch costume to [CostumeSurprise2 v]
 wait (2) seconds
 + switch costume to [Costume1 v]
+wait (2) seconds
 ```
 Look at the code and understand how it makes the costumes change.
 
@@ -92,7 +93,7 @@ Is your sprite the size you want it to be? If not, adjust its size.
 
 **Add me in: generic-scratch-change-size **
 
-Place the `set size to ()?`{:class="block3looks"} block between the `green flag clicked`{:class="block3events"} and the `go to x: () y: ()`{:class="block3motion"}  blocks.
+Place the `set size to () %`{:class="block3looks"} block between the `green flag clicked`{:class="block3events"} and the `go to x: () y: ()`{:class="block3motion"}  blocks.
 
 --- /task ---
 
@@ -106,7 +107,20 @@ broadcast [move v] and wait :: control
 --- /task ---
 
 --- task ---
+Your program should now look like this:
 
+```blocks3
+when flag clicked
+set size to [] %` :: looks
+go to x: (-150) y: (50)
++ switch costume to [Costume1 v]
+wait (1) seconds
++ switch costume to [CostumeSurprise2 v]
+wait (2) seconds
++ switch costume to [Costume1 v]
+wait (2) seconds
+broadcast [move v] and wait :: control
+```
 Remember to keep running your project to test it. Is the program working as you had planned?
 
 --- /task ---
