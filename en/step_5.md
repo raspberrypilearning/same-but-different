@@ -1,7 +1,6 @@
 ## Repeat until not touching colour
 
-Duplicate first sprite
-
+So that  the sprites do not end up on top of each other one the repeat has completed you need to add a Boolean.
 --- task ---
 
 Duplicate your first sprite to create the starting point for your next sprite.
@@ -48,6 +47,9 @@ Change the code so that the new sprite does what you want it to.
 If you have time, you can keep adding more sprites. Make each one different to the others. 
 
 --- /task ---
+
+
+
 
 --- save ---
 
