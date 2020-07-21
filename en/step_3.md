@@ -8,6 +8,8 @@ The first sprite will `switch`{:class="block3looks"} costumes at the beginning o
 --- task ---
 Copy the sprite's first costume to create a second surprise costume.
 
+**add a generic-scratch-copy-costume-from-library**
+
 --- /task ---
 
 When the `green flag clicked`{:class="block3contol"}, the sprite changes from its first costume to its second surprise costume and then back again to the first costume.
