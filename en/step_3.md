@@ -10,20 +10,35 @@ Copy the sprite's first costume to create a second surprise costume.
 
 **Add me in: generic-scratch-copy-costume-from-library**
 
+Now add a surprise to the second costume but don't spend ages on the graphics. Graphics are really important but there's lots of coding to get on with as well!
+
+Think about how you want your sprite to be animated. For example, you might say:
++ "I want my sprite to reveal the surprise from inside itself" (for example, like a doughnut in the character's stomach)
++ "I want my sprite to reveal the surprise from outside itself" (for example, like the idea doughbut, hovering above the character)
++ and even "I want my sprite to also react to the surprise" (for example, character's eyes looking up at the idea doughnut).
+
 --- /task ---
 
-When the `green flag clicked`{:class="block3events"}, the sprite changes from its first costume to its second surprise costume and then back again to its first costume. You may create a third costume later but we don't need to think about that for now.
+--- task ---
+Rename the costumes so they are easy to recognise. For example, ChosenName1, ChosenNameSurprise2 etc.
 
+**Tip:** Naming AND numbering your costumes is often a good way to remember the order of your costumes.
+
+--- /task ---
+
+When the `green flag clicked`{:class="block3events"}, the sprite changes from its first costume to its second surprise costume and then back to its first costume  again. You may create a third costume later but we don't need to think about that for now.
+
+TRACY, HOW SHOULD THE BELOW EXAMPLES  WORK?
 --- no-print ---
 ![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
 --- /no-print ---
 
 --- print-only ---
-![Image annotated with path of sprite](images/moving-up-down.png){:width="400px"}
+![Image annotated with costume changing](images/character + doughnut + eyes.gif){:width="400px"}
 --- /print-only ---
 
 --- task ---
-Here's the code it uses:
+Here's the code the first sprite uses:
 
 ```blocks3
 when flag clicked
@@ -38,20 +53,11 @@ Look at the code and understand how it makes the costumes change.
 --- /task ---
 
 --- task ---
-Now add a surprise to the second costume but don't spend ages on the graphics. Graphics are really important but there's lots of coding to get on with as well!
-
-Think about how you want your sprite to be animated. For example, you might say "I want my sprite to reveal the surprise from inside itself" (doughnut in tummy), "I want my sprite to reveal the surprise from outside itself" (idea doughnut), and/or "I want my sprite to react to the surprise" (character's eyes following idea doughnut).
+Click on the Code tab of the first sprite.
 
 --- /task ---
 
 --- task ---
-Select your first sprite and click on its Code tab. 
-
---- /task ---
-
---- task ---
-Rename the costumes so they are easy to remember. ChosenName1, ChosenName2 etc is often a good way to remember the order of your sprites.  
-
 Add code to make your sprite change costumes.
 
 In your project, don't forget to select from the dropdown the correct costume name for each `switch`{:class="block3looks"} costume block to create your chosen animation. 
@@ -61,20 +67,18 @@ In your project, don't forget to select from the dropdown the correct costume na
 --- task ---
 Give the first sprite a starting position. The place you want your first sprite to start will vary according to your project idea. For instance, in [Which Triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897) the starting position of the first sprite is set so the sprite appears to stand on the ground of the backdrop.
 
-**Tip: if you drag the first sprite to the position you want it to start in you will notice that the `go to x: () y: ()`{:class="block3motion"} will automatically register the coordinates. You can then simply drag the block to the correct position without having to type in the coordinates.** 
+**Tip:** if you drag the first sprite to the position you want it to start in you will notice that the `go to x: () y: ()`{:class="block3motion"} will automatically register the coordinates. You can then simply drag the block to the correct position without having to type in the coordinates.
 
 ```blocks3
 go to x: (-150) y: (50)
 ```
-
+Drag the `go to x: () y: ()`{:class="block3motion"} block below the `green flag clicked`{:class="block3events"}.
 --- /task ---
 
 --- task ---
-At the end of the program now add a broadcast block to let all the sprites know that they can now begin their programs.
+Run your program to check it is working as you planned.
 
-```blocks3
-broadcast [move v] and wait :: control
-```
+TRACY, ANYMORE ON DEBUGGING?
 
 --- /task ---
 
@@ -83,9 +87,18 @@ Is your sprite the size you want it to be? If not, adjust its size.
 
 **Add me in: generic-scratch-change-size **
 
+Drag the `set size to ()?`{:class="block3looks"} block between the `green flag clicked`{:class="block3events"} and the `go to x: () y: ()`{:class="block3motion"}  block.
+
 --- /task ---
 
-**Tip:** It's easier to identify issues if you make one change at a time and then run your program. 
+--- task ---
+At the end of the program you can now add a broadcast block to let all the sprites know that they can now begin their programs.
+
+```blocks3
+broadcast [move v] and wait :: control
+```
+
+--- /task ---
 
 --- task ---
 
