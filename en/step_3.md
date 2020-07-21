@@ -22,6 +22,7 @@ When the `green flag clicked`{:class="block3events"}, the sprite changes from it
 ![Image annotated with path of sprite](images/moving-up-down.png){:width="400px"}
 --- /print-only ---
 
+--- task ---
 Here's the code it uses:
 
 ```blocks3
@@ -49,9 +50,9 @@ Select your first sprite and click on its Code tab.
 --- /task ---
 
 --- task ---
-Rename the costumes so their names are easy to remember. Name1, Name2 etc is often a good way to remember the order of your sprites.  
+Rename the costumes so they are easy to remember. ChosenName1, ChosenName2 etc is often a good way to remember the order of your sprites.  
 
-Add code to make your sprite change costume. 
+Add code to make your sprite change costumes.
 
 In your project, don't forget to select from the dropdown the correct costume name for each `switch`{:class="block3looks"} costume block to create your chosen animation. 
 
