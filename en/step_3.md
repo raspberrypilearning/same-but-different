@@ -1,4 +1,4 @@
-## Develop a sprite's costume
+## Develop sprite costumes
 TRACY, USER OR PLAYER?
 
 Now it is time to get your first sprite working with two costumes. You will start with the first sprite with the surprise and then add more. 
