@@ -12,7 +12,7 @@ Copy the sprite's first costume to create a second surprise costume.
 
 --- /task ---
 
-When the `green flag clicked`{:class="block3contol"}, the sprite changes from its first costume to its second surprise costume and then back again to the first costume.
+When the `green flag clicked`{:class="block3events"}, the sprite changes from its first costume to its second surprise costume and then back again to the first costume.
 
 --- no-print ---
 ![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
