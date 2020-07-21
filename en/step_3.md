@@ -6,9 +6,7 @@ Now it is time to get your first sprite working with two costumes. You will star
 The first sprite will `switch`{:class="block3looks"} costumes at the beginning of the game so the user can see which sprite it the one they're meant to be focusing on.
 
 --- task ---
-Copy the sprite's first costume.
-
-[[[generic-scratch-copy-costume-from-library]]]
+Copy the sprite's first costume to create a second surprise costume.
 
 --- /task ---
 
