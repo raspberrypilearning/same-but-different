@@ -12,10 +12,12 @@ You will now apply these skills to create your own project where you will choose
 ## What you will make
 
 --- no-print ---
+
 Click on the green flag to see an example project:
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/411558897/?autostart=false" frameborder="0"></iframe>
 </div>
+
 --- /no-print ---
 
 --- print-only ---
