@@ -1,7 +1,7 @@
 ## When I receive move
-Now you've got the costumes changing the way you want them to on the first sprite, you can add movement to it.
+You've got the costumes changing the way you want them to on the first sprite. Now you can add movement to the first sprite.
 
-Let's get the first sprite moving randomly within the stage. Then you can modify your code to make your sprite more more specifically.
+Let's get the first sprite moving randomly within the stage. Then you can modify your code to make your sprite move more specifically.
 
 --- task ---
 
@@ -11,7 +11,7 @@ when I receive [move v] :: event
 repeat ():: control
 glide () sec to [random position v] :: motion
 
-Decide how many times you want the sprite to repeat gliding to a random position and how many seconds you want it to glide for.
+Decide how many times you want the first sprite to `repeat`{:class="block3control"} gliding to a random position and how many `seconds`{:class="block3motion"} you want the first sprite to glide for.
 
 --- task ---
 
