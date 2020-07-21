@@ -7,9 +7,11 @@ Let's get the first sprite moving randomly within the stage. Then you can modify
 
 Go to the first sprite's Code tab and add the following blocks:
 
+```blocks3
 when I receive [move v] :: event
 repeat ():: control
 glide () secs to [random position v] :: motion
+```
 
 Decide how many times you want the first sprite to `repeat`{:class="block3control"} gliding to a random position and how many `seconds`{:class="block3motion"} you want it to glide for.
 
@@ -31,7 +33,7 @@ Tidy up and resize your program within the Code tab. It will be easier to see fi
 --- /task ---
 
 --- task ---
-Instead of a fixed number of seconds, you can vary the speed that the first sprite moves by adding a `varible`{:class="block3variable} called `speed`{:class="block3variable}. This will enable the user to increase or decrease the `seconds`{:class="block3motion"} block which will make their focus more or less  challenging.
+Instead of a fixed number of seconds, you can vary the speed that the first sprite moves by adding a `varible`{:class="block3variables} called `speed`{:class="block3variables}. This will enable the user to increase or decrease the `seconds`{:class="block3motion"} block which will make their focus more or less  challenging.
 
 You are also going to make a slider for the speed variable so that the user can modify the speed easily when they are playing the game.
 
