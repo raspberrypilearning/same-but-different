@@ -49,6 +49,8 @@ If you have time, you can keep adding more sprites. Make each one different to t
 --- /task ---
 
 
+*[Boolean]: returns either of two possible values: true or false. The not operator can be used to turn a True into a False, or a False into a True i.e. if something is Not True it is False.
+
 
 
 --- save ---
