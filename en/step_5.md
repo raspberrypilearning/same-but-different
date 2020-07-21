@@ -1,61 +1,28 @@
 ## Repeat until not touching colour
 
-To make sure the sprites do not end up layered on top of each other you now need to add a repeat until has completed you need to add a Boolean.
-repeat until not touching one another
-
-This will ensure the sprites keep moving until they are not touching one another. During  that time they will move in the same way as the repeat.
+You created a `repeat`{:class="block3control"} to control the number of times the first sprite moves. In order to make sure that the sprites do not end up layered on top of each other at the end of their movement, you will now use Boolean. You will use a `repeat until`{:class="block3control"} block to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites. 
 
 --- task ---
+Create the code below:
+```blocks3
+repeat until <not < touching color () ? :: sensing  >:: operators > :: control
+glide () secs to x: () y: () :: motion
+```
+--- /task ---
 
-Duplicate your first sprite to create the starting point for your next sprite.
-
-**Add me in: scratch-duplicating-sprite**
+--- task ---
+Pick the border or perimeter colour from your first costume. The game will end when the sprites are not touching this colour on each other.
 
 --- /task ---
 
 --- task ---
-
-Change the new sprite's costume or edit the costume with the paint editor so that it looks different from your first sprite. 
-
-**Add me in: scratch-paint-tool-basics**
-
-
+Add  the block of code underneath the repeat block.
 --- /task ---
 
---- task ---
-Think about how this sprite will be different to the first sprite. 
-
-How big should the sprite be? 
-Which direction will it point in?
-
-Will the sprite appear behind or in front or other sprites?
-**Add me in: generic-scratch-layers**
-
-Try different movement patterns: 
-
-**Add me in: generic-scratch-spin-around**
-
-**Add me in: generic-move-in-a-circle**
-
---- /task ---
-
-
---- task ---
-Make sure you have selected the sprite that you want to change and click on the Code tab.
-
-Change the code so that the new sprite does what you want it to.
-
---- /task ---
-
---- task ---
-If you have time, you can keep adding more sprites. Make each one different to the others. 
-
---- /task ---
-
+TRACY, DO WE NEED THE BELOW HOW TO?
+**Add me in: scratch-color/saturation/brightness/eyedropper-sprite**
 
 *[Boolean]: returns either of two possible values: true or false. The not operator can be used to turn a True into a False, or a False into a True i.e. if something is Not True it is False.
-
-
 
 --- save ---
 
