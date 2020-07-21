@@ -64,9 +64,9 @@ Click on the Code tab of the first sprite.
 --- /task ---
 
 --- task ---
-Add code to make your sprite change costumes.
+Add code to make your sprite change costumes. Don't forget to add `wait`{:class="block3control"} blocks between each `switch`{:class="block3looks"} costume block.
 
-In your project, don't forget to select from the dropdown the correct costume name for each `switch`{:class="block3looks"} costume block to create your chosen animation. 
+In your project, don't forget to select from the dropdown the correct costume name for each `switch`{:class="block3looks"} costume block to create your chosen animation.
 
 --- /task ---
 
@@ -76,7 +76,7 @@ Give the first sprite a starting position. The place you want your first sprite 
 **Tip:** if you drag the first sprite to the position you want it to start in you will notice that the `go to x: () y: ()`{:class="block3motion"} will automatically register the coordinates. You can then simply drag the block to the correct position without having to type in the coordinates.
 
 ```blocks3
-go to x: (-150) y: (50)
+go to x: ( ) y: ( )
 ```
 Place the `go to x: () y: ()`{:class="block3motion"} block below the `green flag clicked`{:class="block3events"}.
 --- /task ---
@@ -93,7 +93,7 @@ Is your sprite the size you want it to be? If not, adjust its size.
 
 **Add me in: generic-scratch-change-size **
 
-Place the `set size to () %`{:class="block3looks"} block between the `green flag clicked`{:class="block3events"} and the `go to x: () y: ()`{:class="block3motion"}  blocks.
+Place the `set size to ( ) %`{:class="block3looks"} block between the `green flag clicked`{:class="block3events"} and the `go to x: () y: ()`{:class="block3motion"}  blocks.
 
 --- /task ---
 
@@ -107,7 +107,7 @@ broadcast [move v] and wait :: control
 --- /task ---
 
 --- task ---
-Your program should now look like this:
+Your program should now look like the below but with all the values filled in:
 
 ```blocks3
 when flag clicked
