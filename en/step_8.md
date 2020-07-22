@@ -23,21 +23,25 @@ Make sure you have selected the Costume tab in the correct sprite that you want 
 --- /task ---
 
 --- task ---
-Under when green flag clicks keep the following block but chjange its  starting position so each sprite starts in in a different possition on the stage:
-
+Under `when green flag clicked`{:class="block3events"} keep the following `go to`{:class="block3motion"} block. Remember to change their starting position so each sprite starts in a different possition on the stage:
+```blocks3
 go to x: () y: () :: motion
+```
 --- /task ---
 
 --- task ---
-How big should the sprite be? Add a the following block and change the value of each sprite.
+The sprites need to be the same size as each other. What size should the sprites be? Making them smaller or bigger means they will look more in proportion in relation to the Backdrop. Add the following block and change the value of each sprite.
 
-
+```blocks3
 set size to () %` :: looks
-
+```
 --- /task ---
 
 --- task ---
-For sprites 2 and 3 delete the remainder of the code.
+For sprites 2 and 3 ONLY delete the remainder of the code under `when green flag clicked`{:class="block3events"} 
+
+To do thiss, make sure you have selected the Code tab in the correct sprite.
 
 --- /task ---
 
+--- save ---
