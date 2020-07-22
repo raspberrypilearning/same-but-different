@@ -7,4 +7,6 @@ This variable needs to be ticked in the Blocks area so it appears as a graphic o
 
 **scratch-variable-slider
 
-Add speed as the secs in the repeat and the repeat until blocks.
+Add speed as the secs in the `repeat`{:class="block3control"} and `repeat until`{:class="block3control"} blocks.
+
+Check 
