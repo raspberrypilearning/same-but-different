@@ -1,13 +1,12 @@
-
 ## Create sprites 2 and 3
 
 --- task ---
 
-Duplicate your first sprite twice to create the starting point for your next two sprites.
+Duplicate your first sprite twice to create the starting point for sprites 2 and 3.
 
-Rename them. 
+Rename sprites 2 and 3.
 
-**Yip:** Always title sprites and costume with easy to remember names.
+**Tip:** Always title sprites and costume with easy to remember names.
 
 **Add me in: scratch-duplicating-sprite**
 
@@ -15,7 +14,7 @@ Rename them.
 
 --- task ---
 
-The two new sprites only need the original first costume. Delete the other costumes so all the sprites start off looking exactly the same.
+The two new sprites only need the original first costume. Delete the other costumes so all the sprites' first costume is exactly the same.
 
 Make sure you have selected the Costume tab in the correct sprite that you want to change.
 
