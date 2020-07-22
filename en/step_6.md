@@ -7,7 +7,7 @@ You need to set two variables: `speed`{:class="block3variables"} and `finished`{
 
 --- /task ---
 
-## speed 
+## `speed`{:class="block3variables"}
 --- task ---
 
 The `speed`{:class="block3variables"} variable needs to be ticked in the Blocks area so it appears as a graphic on the Stage. 
