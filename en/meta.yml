@@ -11,6 +11,7 @@ steps:
   - title: Develop sprite costumes
   - title: When I receive move
   - title: Repeat until not touching colour
+  - title: Variables
   - title: Add more sprites
   - title: Share your project
   - title: Reflect on your project
