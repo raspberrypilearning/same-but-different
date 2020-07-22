@@ -12,6 +12,7 @@ steps:
   - title: When I receive move
   - title: Repeat until not touching colour
   - title: Variables
+  - title: When this sprite clicked
   - title: Add more sprites
   - title: Share your project
   - title: Reflect on your project
