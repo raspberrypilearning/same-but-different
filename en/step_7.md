@@ -1,6 +1,6 @@
 ## When this sprite clicked
 
-You will now set up another control block, `when this sprite clicked`{:class="block3events"}. This block will only run when it has received `false` from the `finished`{:class="block3looks"} variable i.e when the sequence of `when green flag clicked`{:class="block3events"} has run. 
+You will now set up another control block, `when this sprite clicked`{:class="block3events"}. This block will only run when it has received `false`{:class="block3variables"} from the `finished`{:class="block3variables"} variable i.e when the sequence of `when green flag clicked`{:class="block3events"} has run. 
 
 --- task ---
 Explore the `say`{:class="block3looks"} and `switch costume`{:class="block3looks"} blocks under `when this sprite clicked`{:class="block3events"} in other projects in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
