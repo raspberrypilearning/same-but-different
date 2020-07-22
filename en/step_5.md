@@ -1,18 +1,23 @@
-## Repeat until not touching colour
+## Repeat until not touching colour and edge
 
 In the previous step you used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
 
-You now need to make sure that the sprites will not end up layered on top of each other at the end of the `repeat`{:class="block3control"}. In this step, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites.
+You now need to make sure that the sprites will not end up layered on top of each other at the end of the `repeat`{:class="block3control"}. In this step, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites or the edge of the Stage.
 
 The `not`{:class="block3operators"} block is a Boolean operator.
 
 --- task ---
+You need to select the `Operators`{:class="block3operators"} blocks `and`{:class="block3operators"} and `not`{:class="block3operators"}.
+
 Create the code below:
 ```blocks3
 repeat until <not < touching color () ? :: sensing  >:: operators > :: control
 ```
 --- /task ---
 
+```blocks3
+<not < touching color () ? :: sensing  >:: operators > and <not < touching [edge v] ? :: sensing  >:: operators > 
+```
 --- task ---
 Under the above block now copy and paste your `glide () secs to`{:class="block3motion"} etc block which you created especially for your animation in the`repeat`{:class="block3control"} block.
 
