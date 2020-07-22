@@ -1,8 +1,13 @@
 
+## Create sprites 2 and 3
 
 --- task ---
 
-Duplicate your first sprite to create the starting point for your next sprite.
+Duplicate your first sprite twice to create the starting point for your next two sprites.
+
+Rename them. 
+
+**Yip:** Always title sprites and costume with easy to remember names.
 
 **Add me in: scratch-duplicating-sprite**
 
@@ -10,51 +15,30 @@ Duplicate your first sprite to create the starting point for your next sprite.
 
 --- task ---
 
-Change the new sprite's costume or edit the costume with the paint editor so that it looks different from your first sprite. 
+The two new sprites only need the original first costume. Delete the other costumes so all the sprites start off looking exactly the same.
 
-**Add me in: scratch-paint-tool-basics**
+Make sure you have selected the Costume tab in the correct sprite that you want to change.
 
-
---- /task ---
-
---- task ---
-Think about how this sprite will be different to the first sprite. 
-
-How big should the sprite be? 
-Which direction will it point in?
-
-Will the sprite appear behind or in front or other sprites?
-**Add me in: generic-scratch-layers**
-
-Try different movement patterns: 
-
-**Add me in: generic-scratch-spin-around**
-
-**Add me in: generic-move-in-a-circle**
-
---- /task ---
-
-
---- task ---
-Make sure you have selected the sprite that you want to change and click on the Code tab.
-
-Change the code so that the new sprite does what you want it to.
+**Add me in: scratch-deleting-costumes**
 
 --- /task ---
 
 --- task ---
-If you have time, you can keep adding more sprites. Make each one different to the others. 
+Under when green flag clicks keep the following block but chjange its  starting position so each sprite starts in in a different possition on the stage:
+
+go to x: () y: () :: motion
+--- /task ---
+
+--- task ---
+How big should the sprite be? Add a the following block and change the value of each sprite.
+
+
+set size to () %` :: looks
 
 --- /task ---
 
-Use these below drop-down tips to remind you how to do something if you are unsure or stuck. You can also pick up some additional techniques at any stage by exploring the tips.
+--- task ---
+For sprites 2 and 3 delete the remainder of the code.
 
-[[[generic-scratch3-sprite-rotation-style]]]
-
-
-scratch-graphic-effects
-
-scratch-paint-ungroup
-
-scratch-paint-eyedropper
+--- /task ---
 
