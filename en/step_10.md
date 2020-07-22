@@ -1,23 +1,22 @@
 ## Reflect on your project
 
-How did you get on with your Looping sprites project? Is there anything you would do differently? 
+How did you get on with your Same but different project? Is there anything you would do differently? 
 
 Remind yourself what you have learned:
+OR TRACY: In this project you have:?
 
 --- task ---
-I can use if on edge, bounce inside a forever loop to make my sprite turn away from the edge of the stage
+I can use ia variety of Events blocks to create different user interaction 
+TRACY SCRATCH BLOCK HERE?
 --- /task ---
 --- task ---
-I can use a forever loop to make a sprite repeat code 
+I can use variables to control the speed of the program and the sequence the program runs
 --- /task ---
 --- task ---
-I can modify a costume in the paint editor
+I can modify costumes in the paint editor and switch them in a program to create an animated effect
 --- /task ---
 --- task ---
-My  project uses rotation styles to change how my sprite rotates
---- /task ---
---- task ---
-I can use layers to make it look like some sprites are in front of others
+I can use Boolean operators to control the behaviour of the sprites
 --- /task ---
 --- task ---
 I found a bug in my code and fixed it
