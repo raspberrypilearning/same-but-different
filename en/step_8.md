@@ -1,4 +1,4 @@
-## Create sprites 2 and 3
+## Create sprites 2 and 3 (as well as the distractor sprite 4)
 
 --- task ---
 
@@ -43,5 +43,5 @@ For sprites 2 and 3 ONLY delete the remainder of the code under `when green flag
 To do thiss, make sure you have selected the Code tab in the correct sprite.
 
 --- /task ---
-
+DISTRACRTOR SPRITE?
 --- save ---
