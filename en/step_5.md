@@ -1,6 +1,6 @@
 ## Repeat until not touching colour
 
-In the previoous step you used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
+In the previous step you used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
 
 You now need to make sure that the sprites will not end up layered on top of each other at the end of the `repeat`{:class="block3control"}. In this step, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites.
 
@@ -19,7 +19,7 @@ Under the above block now copy and paste your `glide () secs to`{:class="block3m
 TRACY, DO WE NEED THE BELOW HOW TO?
 **Add me in: scratch-copyblocksofcode or gif?**
 
-Usign the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to be `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites.
+UsiNG the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to be `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites.
 
 --- /task ---
 
@@ -34,7 +34,16 @@ The game will end when all the sprites are not touching this colour on each othe
 --- /task ---
 
 --- task ---
-Run your code. Is it working? If not, you will need to debug.
+
+ALSO INCLUDE DISTRACTOR INFO
+
+--- /task ---
+
+--- task ---
+
+Run your code. Is it working? If not, you will need to debug!
+
+TRACT, LIST OF POSSIBLE THINGS WHICH COULD BE INCORRECT?
 
 **Add me in: scratch-debug**
 
