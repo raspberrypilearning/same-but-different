@@ -2,7 +2,7 @@
 
 In the previoous step you used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
 
-You now need to make sure that the sprites will not end up layered on top of each other afect the `repeat`{:class="block3control"} animation. In this step, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites.
+You now need to make sure that the sprites will not end up layered on top of each other at the end of the `repeat`{:class="block3control"}. In this step, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites.
 
 The `not`{:class="block3operators"} block is a Boolean operator.
 
