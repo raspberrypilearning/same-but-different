@@ -42,7 +42,7 @@ Changing the value `1` here will alter the `speed`{:class="block3variables"}. Th
 --- task ---
 The `finished`{:class="block3variables"} variable acts as a switch set to `true`{:class="block3variables"} at the start of the game `when green flag clicked`{:class="block3events"}. At the end of the sequence, when the first sprite has shown its surprise costume and reverted back to its original costume, the `finished`{:class="block3variables"} variable switches to `true`{:class="block3variables"}.
 
-Add the block  below under the speed block:
+Add the block below under the `speed`{:class="block3variables"} block:
 
 ```blocks3
 set [finished v] to (true) :: variables
@@ -50,11 +50,11 @@ set [finished v] to (true) :: variables
 --- /task ---
 
 --- task ---
-Add the following block as the very last block in `when green flag clicked`{:class="block3event"}:
+Add the following block as the very final block in the `when green flag clicked`{:class="block3event"} set of blocks TRACY GOOD WAY TO SAY THIS?:
 
 ```blocks3
 set [finished v] to (false) :: variables
 ```
 --- /task ---
 
-In the next step you will use `false`{:class="block3variables"} to communicate to all the sprites next stage of the game.
+In the next step you will use `false`{:class="block3variables"} to communicate to all the sprites to begin the  next stage of the game.
