@@ -57,4 +57,4 @@ set [finished v] to (false) :: variables
 ```
 --- /task ---
 
-In the next step you will use `false`{:class="block3variables"} to communicate to all the sprites to begin the  next stage of the game.
+In the next step you will use `false`{:class="block3variables"} to communicate to all the sprites to run the next stage of the program.
