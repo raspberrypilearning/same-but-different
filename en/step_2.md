@@ -1,15 +1,13 @@
 ## Choose your theme
-Now it's time to think about your project. What will you make? You need to make a Same but different project to focus the mind. The theme and the sprites and costumes is up to you.
+Now it's time to think about your project. You need to make a Same but different project to focus the mind. The theme of the game and its sprites and costumes is up to you.
 
-Get ideas for your own Same but different project by investigating projects created by others. 
+Get ideas for your project Same by investigating projects created by others. 
 
 --- task ---
 Go to the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. Investigate the costumes. Note, that in the example projects the first sprite's costume is made up of the original sprite costume plus a second costume which also includes the surprise. In the example projects, the rabbit pops up out of the hat, the chicken lay a egg and a triplet eats the doughnut. If you look closely you will see other slight changes which make the sprites more animated and engaging.
+Click 'See inside' to investigate how the projects were made. Explore the first sprite's costumes.
 
-**Tip:** Investigating a Scratch project block by block is a great way to understand how the program works.
-TRACY OR,
 **Tip:** Adapting costumes is a great way to simply create an animated sprite.
 
 ![See inside icon](images/see_inside.png)
@@ -19,12 +17,14 @@ TRACY OR,
 --- task ---
 Create a new Scratch project to start trying out your ideas.
 
+If you have a Scratch account, sign in first and then create a new project.
+
 --- /task ---
 
 --- task ---
-Take 5 minutes to think about **your** Looping sprites project. 
+Take 5 minutes to think about **your** Same but different project. 
 
-+ What theme do you want to create?
++ What game do you want to create?
 + Look at the sprites and backdrops that are available in Scratch.
 + Which backdrop will you choose? 
 + Which sprite(s) will you choose? Will you choose sprites that alreay have costumes or will you create your own costumes?
@@ -49,10 +49,5 @@ Give your project a title that matches your theme.
 **generic-scratch-title with gif**
 
 --- /task ---
-
-TAKEN OUT...
-Each sprite has a different **algorithm** which makes each sprite's movement unique.
-
-*[algorithm]: A set of precise instructions for performing a task.
 
 --- save ---
