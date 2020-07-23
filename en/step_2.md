@@ -24,7 +24,7 @@ If you have a Scratch account, sign in first and then create a new project.
 --- task ---
 Take 5 minutes to think about **your** Same but different project. 
 
-+ What game do you want to create?
++ What Same but different project do you want to create?
 + Look at the sprites and backdrops that are available in Scratch.
 + Which backdrop will you choose? 
 + Which sprite(s) will you choose? Will you choose sprites that alreay have costumes or will you create your own costumes?
