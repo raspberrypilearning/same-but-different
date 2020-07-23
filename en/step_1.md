@@ -1,5 +1,7 @@
 ## Introduction
-You’re going to create a fun game to try and improve a user’s concentration and help them focus and relax. You will choose a theme for your project.
+A user is anybody who utilises a computer for work and/or play.
+
+Focusing help to relax - you’re going to create a fun game to improve a user’s concentration. You will choose an overall theme for your project.
 
 ## Skills you should have
 To complete this Same but different project you need to have the following skills which you will have learnt when completing [Focus on the prize](https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize):
@@ -7,7 +9,7 @@ To complete this Same but different project you need to have the following skill
 - How to detect when two sprites are `touching`{:class="block3sense"} each other
 - How to use `and`{:class="block3operators"} and `not`{:class="block3operators"} Boolean operators 
 
-You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique animation.
+You will now apply these skills to create your own project where you will choose your own sprites and backdrop to create a unique game.
 
 ## What you will make
 
@@ -21,6 +23,8 @@ Click on the green flag to see an example project:
 --- /no-print ---
 
 --- print-only ---
+
+Heere's an example project:
 
 ![Complete project](images/showcase_static.png){:width="420px"}
 
@@ -44,28 +48,15 @@ title: What you will need
 ---
 title: What you will learn
 ---
-TRACY, WHAT AIMS TO PUT IN?
-
-+ How to apply your skills to realise your own project ideas
-+ How to debug your program
-+ How to reflect on your learning
-
-+ How to select suitable sprites to match your ideas
-+ How to adapt costumes to create a realistic animation
-+ How to adapt a sprite’s position and movement to create a working game
-+ How to change each sprite’s touching colour ? so they can avoid touching each other
-+ How to identify which sprites, costumes, values (Motion block and touching colour ?) to adapt in order to realise your creative ideas
-
++ How to use your skills and experience to realise a creative project
++ How to investigate other Scratch projects and investigate How to... in order to develop your ideas
++ How to share your project to a wide community of users
 --- /collapse ---
 
 --- collapse ---
 ---
 title: Additional information for educators
 ---
-TRACY, DO WE NEED A STARTER PROJECT?
-
-[Here](http://rpf.io/project-name-go) is a link to the resources for this project.
-
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
 --- /collapse ---
