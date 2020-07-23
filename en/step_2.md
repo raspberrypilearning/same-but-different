@@ -1,7 +1,7 @@
 ## Choose your theme
-Now it's time to think about your project. You need to make a Same but different project to focus the mind. The theme of the game and its sprites and costumes is up to you.
+Now it's time to think about your project. You need to make a Same but different game to focus the mind. The theme, sprites and costumes are up to you.
 
-Get ideas for your project Same by investigating projects created by others. 
+Get ideas for your project Same but different by investigating projects created by others. 
 
 --- task ---
 Go to the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
