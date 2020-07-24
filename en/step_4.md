@@ -64,6 +64,61 @@ For example, in [Which triplet ate the doughnut?](https://scratch.mit.edu/projec
 
 --- /task ---
 
+In the previous above you used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
+
+You now need to make sure that the sprites will not end up layered on top of each other.  You will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites or the edge of the Stage.
+
+The `not`{:class="block3operators"} block is a Boolean operator.
+
+--- task ---
+You need to use the `Operators`{:class="block3operators"} blocks: `and`{:class="block3operators"} and `not`{:class="block3operators"}.
+
+**Add me in: scratch-and-not-operators**
+
+--- /task ---
+
+```blocks3
+<not < touching color () ? :: sensing  >:: operators > and <not < touching [edge v] ? :: sensing  >:: operators > 
+```
+--- task ---
+Under the above block copy and paste your `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block.
+
+**Add me in: scratch-copyblocksofcode or gif?**
+
+Using the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to be `not`{:class="block3operators"}   be `touching`{:class="block3sensing"} any of the other sprites.
+
+--- /task ---
+
+--- task ---
+Pick the border or furthermost perimeter colour from your first sprites, first costume. If there isn't a border you may need to make one. If you have chosen for your sprite to move left and right or up and down you only need to choose the left/right or top/bottom perimeter colour - assuming the colour is the same. If the movement is random, you will need to create/choose a border colour around your first sprite's costume.
+
+The game will end when all the sprites are not touching this colour on each other.
+
+**Add me in: scratch-creatingborder-costume**
+**Add me in: scratch-color/saturation/brightness/eyedropper-sprite**
+
+--- /task ---
+
+--- task ---
+
+ALSO INCLUDE DISTRACTOR INFO
+
+--- /task ---
+
+--- task ---
+
+Run your code. Is it working? If not, you will need to debug!
+
+TRACT, LIST OF POSSIBLE THINGS WHICH COULD BE INCORRECT?
+
+**Add me in: scratch-debug**
+
+--- /task ---
+
+*[Boolean operator]: returns either of two possible values: true or false. The not operator can be used to turn a True into a False, or a False into a True i.e. if something is Not True it is False.
+
+--- save ---
+
 --- task ---
 
 Tidy up and resize your program within the Code tab. It will be easier to see first sprite's program as it gets longer.
