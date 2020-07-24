@@ -37,12 +37,18 @@ Changing the value `1` will alter the `speed`{:class="block3variables"}. The hig
 
 --- task ---
 
-Create and use the `finished`{:class="block3variables"} variable to use in a condition.
-
-**scratch-variablestofalseandtruetosetcondition
+Create a variable called `finished`{:class="block3variables"}.
 
 --- /task ---
 
-In the next step you will use `false`{:class="block3variables"} to create a condition so all the sprites to run the next stage of their programs.
+--- task ---
+
+You will now `set finished to`{:class="block3variables"} the Boolean value of `true` and `set finished to`{:class="block3variables"} the Boolean value of `false`. 
+
+**scratch-variablessettrueandfalsevalues
+
+In the next step you will use the `set finished to`{:class="block3variables"} of `false` to create a condition so all the sprites run the next stage of their program.
+
+--- /task ---
 
 --- save ---
