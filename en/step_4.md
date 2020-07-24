@@ -1,12 +1,14 @@
 ## When I receive move
-Now that the costumes on the first sprite are switching you can add movement to the first sprite.
-
-Think about how you want your sprite to move. 
+Now that the costumes on the first sprite are switching and you have broadcast the end of the costume sequence you can add movement to the first sprite under a `when I receive`{:class="block3control"} block.
 
 --- task ---
-Look at the Backdrop you have chosen and explore how the sprites might move in relation to it. 
+Think about how you want your sprites to move. The sprites need to move in the same way so that the sprite with the surprise is harder to identify.  
+--- /task ---
 
-Look at the movement of the sprites in three Same but different projects.
+--- task ---
+Look at the Backdrop you have chosen and explore how your sprites might move in relation to it. 
+
+Look at the movement of the sprites in these Same but different projects:
 
 ![Complete project](images/same_triplets.gif)
 ![Complete project](images/same_hens.gif)
@@ -15,18 +17,20 @@ Look at the movement of the sprites in three Same but different projects.
 --- /task ---
 
 --- task ---
-In the first sprite's Costume tab, make sure you have selected the first costume.
+In the first sprite's Costume tab, make sure the first costume is selected. Now the game will always start with the first costume.
 --- /task ---
 
 --- task ---
-Trying out different motion will help you decide which movement is best for your sprite.
+Try out different sprite motion to help you decide which movement is best for your first sprite.
 
 **Add me in: scratch-movesprite**
 
 --- /task ---
 
 --- task ---
-Adjust the values of `repeat`{:class="block3control"} and `secs`{:class="block3motion"} and run the program until you are happy with the pace of the sprite. It often takes a few attempts to get a sprite animating in a way that you are happy with.
+For the code required in the `when I receive`{:class="block3control"} block explore the projects in [Focus on the prize](https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize):
+
+Adjust the values of `repeat`{:class="block3control"} and `secs`{:class="block3motion"} and and run the program until you are happy with the pace of the sprite. It often takes a few attempts to get a sprite animating in a way that you are happy with.
 
 --- /task ---
 
