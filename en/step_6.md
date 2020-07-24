@@ -18,5 +18,28 @@ You will need to make sure that the second and third sprite are the same size as
 
 --- /task ---
 
+--- task ---
+You now need to copy the whole of the code in `when I receive move`{:class="block3events"} and `when this sprite clicked`{:class="block3events"} over to the second and third sprite.
+**Add me in: scratch-copyingcode**
+
+--- /task ---
+Adapt the code on the second and third sprite. 
+
+--- task ---
+Make sure you are in the correct sprites Code tab.
+
+--- /task ---
+
+--- task ---
+
+In `when I receive move`{:class="block3events"} change the `motion`{:class="block3motion"} block so the sprites move from the place where you have selected they start from.
+
+--- /task ---
+
+--- task ---
+In `when this sprite clicked`{:class="block3events"} delete the `switch costume to`{:class="block3motion"} blocks. You only need them to `say`{:class="block3looks"} something. What do you  want the second and third sprites to say if they are clicked?
+
+--- /task ---
+
 --- save ---
 
