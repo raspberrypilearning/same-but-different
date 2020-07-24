@@ -1,6 +1,6 @@
 ## Develop first sprite's costumes
 
-Now it's time to get your first working with two costumes.
+Now it's time to get your first sprite working with two costumes.
 
 The sprite will `switch`{:class="block3looks"} costumes at the very beginning of the game so the user can see which sprite is the one they need to focus on.
 
@@ -108,7 +108,9 @@ At the very end of the program use a broadcast block which will let all the othe
 --- /task ---
 
 --- task ---
-Your program should now look like the program above but with values filled in to suit your project. Trace your own code line by line before you run it. Code tracing is a good way to check how and if your program will work before running it:
+Your program should now look like the program above but with values filled in to suit your project. Trace your own code line by line before you run it. 
+
+**Tip:** Code tracing is a good way to check how and if your program will work before running it.
 
 --- /task ---
 
