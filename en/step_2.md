@@ -50,4 +50,11 @@ Give your project a title that matches your theme.
 
 --- /task ---
 
+--- task ---
+Copy your first sprite twice so you have three spirtes which look the same.
+
+[[[generic-scratch-sprite-from-library]]]
+--- /task ---
+
+
 --- save ---
