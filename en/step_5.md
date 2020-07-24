@@ -47,7 +47,31 @@ You will now `set finished to`{:class="block3variables"} the Boolean value of `t
 
 **scratch-variablessettrueandfalsevalues
 
-In the next step you will use the `set finished to`{:class="block3variables"} of `false` to create a condition so all the sprites run the next stage of their program.
+--- /task ---
+
+You will use the `set finished to`{:class="block3variables"} of `false` to create a condition so all the sprites run the next stage of their program.
+
+--- task ---
+
+Set up another control block, `when this sprite clicked`{:class="block3events"}. This block will only run when it has received `set finished to`{:class="block3variables"} of `false` i.e when the sequence of `when green flag clicked`{:class="block3events"} has run. 
+
+--- /task ---
+
+--- task ---
+Explore the `say`{:class="block3looks"} and `switch costume`{:class="block3looks"} blocks under `when this sprite clicked`{:class="block3events"} in other projects in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
+
+**Tip:** Looking at other programs is a great way to get ideas for your own unique project.
+
+--- /task ---
+
+--- task ---
+Now  make the sprite with the surprise say something when it is clicked. What do you want it to say? 
+
+**Tip:** Remember, even if you click the sprite it won't say anything until `when this sprite clicked`{:class="block3events"} and `when I receive move`{:class="block3events"} have finished running.
+
+**Add me in: scratch-say**
+
+**Add me in: scratch-changecostume**
 
 --- /task ---
 
