@@ -55,6 +55,8 @@ Copy your first sprite twice so you have three sprites which look the same.
 
 **Add:scratch-copy-sprite
 
+--- /task ---
+
 --- task ---
 Rename the sprites so they are easy to recognise. For example, ChosenName1, ChosenName2, ChosenName3.
 
