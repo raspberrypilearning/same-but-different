@@ -91,7 +91,7 @@ Give the sprite a starting position on the Stage.
 --- /task ---
 
 --- task ---
-Is the sprite the size you want it to be? If not, adjust its size. You can change the size of a sprite in two ways.
+Is the sprite the size you want it to be? If not, adjust its size. Making the sprite smaller or bigger means they will look more in proportion in relation to the Backdrop. You can change the size of a sprite in two ways.
 
 **Add me in: generic-scratch-change-sizeusinglooksblock&inspritearea**
 
