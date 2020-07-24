@@ -1,29 +1,39 @@
 ## When I receive move
-The costumes on the first sprite are now changing in the way you want. Now you can add movement to the first sprite.
+Now the costumes on the first sprite are now changing in the way you want you can add movement to the first sprite.
 
-Think about how you want your sprite to move. Look at the Backdrop you have chosen and explore how the sprites might move in relation to it. 
+Think about how you want your sprite to move. 
+
+--- task ---
+Look at the Backdrop you have chosen and explore how the sprites might move in relation to it. 
+
+Look at the movement of the sprites in three different projects.
+
+![Complete project](images/same_triplets.gif)
+![Complete project](images/same_hens.gif)
+![Complete project](images/same_presents.gif)
+
+--- /task ---
+
+--- task ---
+In the Costume tab, make sure you have selected the first costume.
+--- /task ---
+
+--- task ---
+Now go to the first sprite's Code tab.
 
 Trying out different movement will help you decide which is best for your sprite.
 
+**Add me in: scratch-movesprite**
+
+--- /task ---
+
 --- task ---
-**Add me in: scratch-variables+slider**
-
-Go to the first sprite's Code tab and add the following blocks:
-
-```blocks3
-when I receive [move v] :: event
-repeat ():: control
-glide () secs to [random position v] :: motion
-```
-
-Decide how many times you want the first sprite to `repeat`{:class="block3control"} gliding to a random position and how many `secs`{:class="block3motion"} (seconds) you want it to glide for.
+Adjust the values of `repeat`{:class="block3control"} and `secs`{:class="block3motion"} and run the program until you are happy with the pace of the sprite. It often takes a few attempts to get a sprite animating in a way that you are happy with.
 
 --- /task ---
 
 --- task ---
 Run your program.
-
-**Tip:**: Adjust the values of `repeat`{:class="block3control"} and `secs`{:class="block3motion"} and run the program until you are happy with the pace of the sprite. It often takes a few attempts to get a sprite animating in a way that you are happy with.
 
 --- /task ---
 
