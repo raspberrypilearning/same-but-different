@@ -64,28 +64,25 @@ For example, in [Which triplet ate the doughnut?](https://scratch.mit.edu/projec
 
 --- /task ---
 
-In the previous above you used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
+You have  used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
 
-You now need to make sure that the sprites will not end up layered on top of each other.  You will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites or the edge of the Stage.
+--- task ---
+You now need to make sure that the sprites will not end up layered on top of each other. To do this, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites or the edge of the Stage.
 
 The `not`{:class="block3operators"} block is a Boolean operator.
 
---- task ---
 You need to use the `Operators`{:class="block3operators"} blocks: `and`{:class="block3operators"} and `not`{:class="block3operators"}.
 
 **Add me in: scratch-and-not-operators**
 
 --- /task ---
 
-```blocks3
-<not < touching color () ? :: sensing  >:: operators > and <not < touching [edge v] ? :: sensing  >:: operators > 
-```
 --- task ---
-Under the above block copy and paste your `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block.
+Under the above block copy and paste your `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block. Using the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to `not`{:class="block3operators"} be `touching`{:class="block3sensing"} any of the other sprites.
 
-**Add me in: scratch-copyblocksofcode or gif?**
+**Add me in: scratch-copyblocksofcode**
 
-Using the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to be `not`{:class="block3operators"}   be `touching`{:class="block3sensing"} any of the other sprites.
+OR gif?
 
 --- /task ---
 
@@ -96,12 +93,7 @@ The game will end when all the sprites are not touching this colour on each othe
 
 **Add me in: scratch-creatingborder-costume**
 **Add me in: scratch-color/saturation/brightness/eyedropper-sprite**
-
---- /task ---
-
---- task ---
-
-ALSO INCLUDE DISTRACTOR INFO
+**Add me in: scratch-colournottouching-costume**
 
 --- /task ---
 
@@ -109,7 +101,11 @@ ALSO INCLUDE DISTRACTOR INFO
 
 Run your code. Is it working? If not, you will need to debug!
 
-TRACT, LIST OF POSSIBLE THINGS WHICH COULD BE INCORRECT?
+Identify what is not working. You may need to run the program again to identify the issue.
+
+In your code, go to the block/s which are not working. Often is will be a small error with the `value` or an incorrect `switch`{:class="block3motion"} costume which is stopping your program from running as you have planned.
+
+**Tip:**: Ask a friend to check your code. It's sometimes easier to pick up errors if you are new to the program.
 
 **Add me in: scratch-debug**
 
