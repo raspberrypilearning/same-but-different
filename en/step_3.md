@@ -27,6 +27,7 @@ Add a surprise to the second cosutme. You could draw it in the Paint Editor or y
 ![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
 
 --- /no-print ---
+--- /task ---
 
 --- task ---
 Think about where in the Paint Editor you want your surprise to go.
