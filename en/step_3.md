@@ -1,11 +1,11 @@
 ## Develop sprite costumes
 
-Now it's time to get your first sprite working with two costumes. You will start with one sprite and then add more. 
+Now it's time to get your first sprite working with two costumes. You will start with the first sprite and then add more. 
 
 The sprite will `switch`{:class="block3looks"} costumes at the very beginning of the game so the user can see which sprite is the one they need to focus on.
 
 --- task ---
-Open the first sprite's Costume tab. 
+Open and explore the first sprite's Costume tab.
 
 If your first sprite has got a number of costume delete all but the first costume. Then, copy the first costume to create a second costume.
 
@@ -16,24 +16,19 @@ If your first sprite has got a number of costume delete all but the first costum
 --- task ---
 Rename the costumes so they are easy to recognise. For example, ChosenName1, ChosenNameSurprise2 etc.
 
-**Tip:** Naming AND numbering your costumes is often a good way to remember the order you want them to show.
-
 --- /task ---
 
 --- task ---
-Add a surprise to the second cosutme. Draw it in Paint Editor or you may want to explore the graphics from sprite costumes from within Choose a Sprite. 
+Add a surprise to the second cosutme. You could draw it in the Paint Editor or you may want to explore a graphic from other sprite costumes. Have a thorough look at the costumes in Choose a Sprite. 
 
---- print-only ---
 **Add me in: scratch-copyinggraphicFromCostume-costumes**
-
---- /print-only ---
-OR
 
 --- no-print ---
 ![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
 
 --- /no-print ---
 
+--- task ---
 Think about where in the Paint Editor you want your surprise to go.
 
 Don't spend ages on the graphics. Graphics are really important but there's lots of coding to get on with as well!
@@ -66,7 +61,7 @@ Click on the Code tab of the sprite.
 
 Add code to make your sprite change costumes using the `green flag clicked`{:class="block3events"}, `wait`{:class="block3control"} blocks and `switch costume to`{:class="block3looks"} blocks.
 
-**Tip:** Don't forget to select from the dropdown the correct costume name for each `switch costume to`{:class="block3looks"} block to achieve your chosen sequence.
+**Tip:** Don't forget to select the correct costume name for each `switch costume to`{:class="block3looks"} block from the dropdown to achieve your chosen sequence.
 
 --- /task ---
 
