@@ -1,12 +1,12 @@
 ## When I receive move
-Now the costumes on the first sprite are now changing in the way you want you can add movement to the first sprite.
+Now that the costumes on the first sprite are switching you can add movement to the first sprite.
 
 Think about how you want your sprite to move. 
 
 --- task ---
 Look at the Backdrop you have chosen and explore how the sprites might move in relation to it. 
 
-Look at the movement of the sprites in three different projects.
+Look at the movement of the sprites in three Same but different projects.
 
 ![Complete project](images/same_triplets.gif)
 ![Complete project](images/same_hens.gif)
@@ -15,13 +15,11 @@ Look at the movement of the sprites in three different projects.
 --- /task ---
 
 --- task ---
-In the Costume tab, make sure you have selected the first costume.
+In the first sprite's Costume tab, make sure you have selected the first costume.
 --- /task ---
 
 --- task ---
-Now go to the first sprite's Code tab.
-
-Trying out different movement will help you decide which is best for your sprite.
+Trying out different motion will help you decide which movement is best for your sprite.
 
 **Add me in: scratch-movesprite**
 
