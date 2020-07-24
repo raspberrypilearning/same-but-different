@@ -41,5 +41,16 @@ In `when this sprite clicked`{:class="block3events"} delete the `switch costume 
 
 --- /task ---
 
+--- task ---
+Have you been testing your program by running it?
+--- /task ---
+
+--- task ---
+
+Now think of a distractor and program its movement across the stage to distract the player.
+
+--- /task ---
+
+
 --- save ---
 
