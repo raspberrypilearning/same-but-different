@@ -1,4 +1,4 @@
-## Create sprites 2 and 3 (as well as the distractor sprite 4)
+## More sprites
 
 --- task ---
 
