@@ -1,9 +1,12 @@
 ## When I receive move
-You've got the costumes changing the way you want them to on the first sprite. Now you can add movement to the first sprite.
+The costumes on the first sprite are now changing in the way you want. Now you can add movement to the first sprite.
 
-Let's get the first sprite moving randomly within the stage. Then you can modify your code to make your sprite move more specifically.
+Think about how you want your sprite to move. Look at the Backdrop you have chosen and explore how the sprites might move in relation to it. 
+
+Trying out different movement will help you decide which is best for your sprite.
 
 --- task ---
+**Add me in: scratch-variables+slider**
 
 Go to the first sprite's Code tab and add the following blocks:
 
