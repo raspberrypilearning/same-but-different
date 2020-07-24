@@ -6,9 +6,9 @@ Get ideas for your project Same but different by investigating projects created 
 --- task ---
 Go to the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
 
-Click 'See inside' to investigate how the projects were made. Explore the first sprite's costumes.
+Click 'See inside' to investigate how the projects were made.
 
-**Tip:** Adapting costumes is a great way to simply create an animated sprite.
+**Tip:** Explore the first sprite's costumes. Adapting costumes is a great way to simply create an animated sprite.
 
 ![See inside icon](images/see_inside.png)
 
@@ -54,7 +54,12 @@ Give your project a title that matches your theme.
 Copy your first sprite twice so you have three spirtes which look the same.
 
 [[[generic-scratch-sprite-from-library]]]
---- /task ---
 
+--- task ---
+Rename the sprites so they are easy to recognise. For example, ChosenName1, ChosenName2, ChosenName3.
+
+**Tip:** Naming AND numbering your sprites is often a good way to remember the order you want them to show.
+
+--- /task ---
 
 --- save ---
