@@ -107,7 +107,7 @@ broadcast [move v] and wait :: control
 --- /task ---
 
 --- task ---
-Your program should now look like the below but with values filled in to suit your project. Trace the code line by line before you run it. Code tracing is a good way to check how, as well as if, your program will work before running it:
+Your program should now look like the below but with values filled in to suit your project. Trace the code line by line before you run it. Code tracing is a good way to check how and if your program will work before running it:
 
 ```blocks3
 when flag clicked
@@ -126,7 +126,7 @@ broadcast [move v] and wait :: control
 
 --- task ---
 
-Check the program is running and working as you had planned?
+Now run your program. Is it working as you had planned?
 
 --- /task ---
 
