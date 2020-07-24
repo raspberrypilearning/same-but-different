@@ -3,11 +3,9 @@
 How did you get on with your Same but different project? Is there anything you would do differently? 
 
 Remind yourself what you have learned:
-OR TRACY: In this project you have:?
 
 --- task ---
 I can use ia variety of Events blocks to create different user interaction 
-TRACY SCRATCH BLOCK HERE?
 --- /task ---
 --- task ---
 I can use variables to control the speed of the program and the sequence the program runs
