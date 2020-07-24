@@ -111,16 +111,14 @@ In your code, go to the block/s which are not working. Often is will be a small 
 
 --- /task ---
 
-*[Boolean operator]: returns either of two possible values: true or false. The not operator can be used to turn a True into a False, or a False into a True i.e. if something is Not True it is False.
-
---- save ---
-
 --- task ---
 
-Tidy up and resize your program within the Code tab. It will be easier to see first sprite's program as it gets longer.
+Tidy up and resize your programs within the Code tab. It will be easier to see all the seperate programs as you develop more.
 
 **Add me in: scratch-cleanupBlocks&magnifier-organiseCodetab**
 
 --- /task ---
+*[Boolean operator]: returns either of two possible values: true or false. The not operator can be used to turn a True into a False, or a False into a True i.e. if something is Not True it is False.
+
 
 --- save ---
