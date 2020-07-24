@@ -1,6 +1,6 @@
 ## Introduction
 
-Focusing help to relax - you’re going to create a fun game to improve a player’s concentration. You will choose an overall theme for your project.
+Focusing helps to relax. You’re going to create a fun game to improve a player’s concentration. You will choose an overall theme for your project.
 
 ## Skills you should have
 To complete this Same but different project you need to have the following skills which you will have learnt when completing [Focus on the prize](https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize):
