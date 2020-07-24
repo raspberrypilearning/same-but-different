@@ -125,7 +125,8 @@ Now run your program. Is it working as you had planned?
 
 --- /task ---
 
+*[Code tracing]: simulating the execution of code by hand in order to manually check that the code works correctly before you run it.
+
 --- save ---
 
-*[Code tracing]: simulating the execution of code by hand in order to manually check that the code works correctly before you run it.
 
