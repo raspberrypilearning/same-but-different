@@ -53,7 +53,7 @@ Give your project a title that matches your theme.
 --- task ---
 Copy your first sprite twice so you have three sprites which look the same.
 
-**Add:scratch-copy-sprite
+**Add:scratch-copy&rename-sprite
 
 --- /task ---
 
