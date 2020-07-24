@@ -51,9 +51,9 @@ Give your project a title that matches your theme.
 --- /task ---
 
 --- task ---
-Copy your first sprite twice so you have three spirtes which look the same.
+Copy your first sprite twice so you have three sprites which look the same.
 
-[[[generic-scratch-sprite-from-library]]]
+**Add:scratch-copy-sprite
 
 --- task ---
 Rename the sprites so they are easy to recognise. For example, ChosenName1, ChosenName2, ChosenName3.
