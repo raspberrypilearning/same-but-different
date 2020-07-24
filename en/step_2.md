@@ -58,9 +58,9 @@ Copy your first sprite twice so you have three sprites which look the same.
 --- /task ---
 
 --- task ---
-Rename the sprites so they are easy to recognise. For example, ChosenName1, ChosenName2, ChosenName3.
+Rename the sprites so they are easy to recognise. Number them. For example, ChosenName1, ChosenName2, ChosenName3.
 
-**Tip:** Naming AND numbering your sprites is often a good way to remember the order you want them to show.
+**Tip:** Naming and numbering your sprites is a good way to know what theyare and remember the order you want them to show.
 
 --- /task ---
 
