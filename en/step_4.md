@@ -8,18 +8,21 @@ Think about how you want your sprites to move. The sprites need to move in the s
 --- task ---
 Look at the Backdrop you have chosen and explore how your sprites might move in relation to it. 
 
-Look at the movement of the sprites in these Same but different projects:
+Look at the movement of the sprites in these Same but different project examples:
 
 ![Complete project](images/same_triplets.gif)
 ![Complete project](images/same_hens.gif)
 ![Complete project](images/same_presents.gif)
 
-**Tip:**: Linking a sprite's motion to the backdrop graphic can make your project more realistic.
+**Tip:**: Linking a sprite's motion to the backdrop graphic will make your project more realistic.
 
 --- /task ---
 
 --- task ---
 In the first sprite's Costume tab, make sure the first costume is selected. Now the game will always start with the first costume.
+
+**Add me in: scratch-selectcostumetoshowfirsteitherusingshoworbclickingonit**
+
 --- /task ---
 
 --- task ---
@@ -69,16 +72,17 @@ You have  used a `repeat`{:class="block3control"} block to control the number of
 --- task ---
 You now need to make sure that the sprites will not end up layered on top of each other. To do this, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites or the edge of the Stage.
 
+You need to use the Boolean `Operators`{:class="block3operators"} of `and`{:class="block3operators"} and `not`{:class="block3operators"}.
+
 The `not`{:class="block3operators"} block is a Boolean operator.
 
-You need to use the `Operators`{:class="block3operators"} blocks: `and`{:class="block3operators"} and `not`{:class="block3operators"}.
 
 **Add me in: scratch-and-not-operators**
 
 --- /task ---
 
 --- task ---
-Under the above block copy and paste your `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block. Using the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to `not`{:class="block3operators"} be `touching`{:class="block3sensing"} any of the other sprites.
+Under the above block, copy and paste the `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block. Using the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to `not`{:class="block3operators"} be `touching`{:class="block3sensing"} any of the other sprites.
 
 **Add me in: scratch-copyblocksofcode**
 
@@ -86,14 +90,14 @@ OR gif?
 
 --- /task ---
 
+The game will end when all the sprites are `not`{:class="block3operators"} `touching`{:class="block3sensing"} each other.  This is `sensed`{:class="block3sensing"} by colour.
+
 --- task ---
-Pick the border or furthermost perimeter colour from your first sprites, first costume. If there isn't a border you may need to make one. If you have chosen for your sprite to move left and right or up and down you only need to choose the left/right or top/bottom perimeter colour - assuming the colour is the same. If the movement is random, you will need to create/choose a border colour around your first sprite's costume.
+Pick the border or furthermost perimeter colour from your first sprite's, first costume. If there isn't a border you may need to make one.
 
-The game will end when all the sprites are not touching this colour on each other.
-
+**Add me in: scratch-colornottouching-costume**
 **Add me in: scratch-creatingborder-costume**
 **Add me in: scratch-color/saturation/brightness/eyedropper-sprite**
-**Add me in: scratch-colournottouching-costume**
 
 --- /task ---
 
