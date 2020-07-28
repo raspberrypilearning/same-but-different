@@ -7,7 +7,12 @@ You need to set two variables: `speed`{:class="block3variables"} and `finished`{
 
 --- /task ---
 
-## `speed`{:class="block3variables"}
+--- task ---
+
+Create a variable called `finished`{:class="block3variables"}.
+
+--- /task ---
+
 --- task ---
 
 The `speed`{:class="block3variables"} variable needs to be ticked in the Blocks area so it appears as a graphic on the Stage. 
@@ -18,7 +23,7 @@ The `speed`{:class="block3variables"} variable needs to be ticked in the Blocks 
 
 --- task ---
 
-When the `speed`{:class="block3variables"} variable is in the Stage convert it to a slider so the user will now be able to vary the speed themselves as they play the game.
+When the `speed`{:class="block3variables"} variable shows in the Stage, convert it to a slider so the player will be able to vary the speed that the sprites move themselves when they play the game.
 
 **scratch-variable-slider
 
@@ -29,7 +34,7 @@ Add the rounded `speed`{:class="block3variables"} variable block to both the `se
 
 **scratch-addvariablestosecs
 
-Changing the value `1` will alter the `speed`{:class="block3variables"}. The higher the value, the faster the sprites will move.
+Changing the value `1` will alter the `speed`{:class="block3variables"}. The higher the value, the faster the sprites will move, the greater the challenge.
 
 --- /task ---
 
@@ -43,22 +48,27 @@ Create a variable called `finished`{:class="block3variables"}.
 
 --- task ---
 
-You will now `set finished to`{:class="block3variables"} the Boolean value of `true` and `set finished to`{:class="block3variables"} the Boolean value of `false`. 
+You will now creat two blocks: 
++`set finished to`{:class="block3variables"} with the Boolean value of `true`. 
++`set finished to`{:class="block3variables"} with the Boolean value of `false`. 
 
 **scratch-variablessettrueandfalsevalues
 
 --- /task ---
 
-You will use the `set finished to`{:class="block3variables"} of `false` to create a condition so all the sprites run the next stage of their program.
-
---- task ---
-
-Set up another control block, `when this sprite clicked`{:class="block3events"}. This block will only run when it has received `set finished to`{:class="block3variables"} of `false` i.e when the sequence of `when green flag clicked`{:class="block3events"} has run. 
+-- task ---
+Investigate other example programs in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio to see where these blocks should go under `when green flag clicked`{:class="block3events"}.
 
 --- /task ---
 
 --- task ---
-Explore the `say`{:class="block3looks"} and `switch costume`{:class="block3looks"} blocks under `when this sprite clicked`{:class="block3events"} in other projects in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
+
+In the Code tab, set up another control block `when this sprite clicked`{:class="block3events"}. This block will only run when it has received the condition `set finished to`{:class="block3variables"} `false` i.e when the sequence of `when green flag clicked`{:class="block3events"} has run. 
+
+--- /task ---
+
+--- task ---
+Again, explore the `say`{:class="block3looks"} and `switch costume`{:class="block3looks"} blocks under `when this sprite clicked`{:class="block3events"} in other projects in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
 
 **Tip:** Looking at other programs is a great way to get ideas for your own unique project.
 
@@ -67,7 +77,7 @@ Explore the `say`{:class="block3looks"} and `switch costume`{:class="block3looks
 --- task ---
 Now  make the sprite with the surprise say something when it is clicked. What do you want it to say? 
 
-**Tip:** Remember, even if you click the sprite it won't say anything until `when this sprite clicked`{:class="block3events"} and `when I receive move`{:class="block3events"} have finished running.
+**Tip:** Remember, even if you click the sprite it won't say anything until `when green flag clicked`{:class="block3events"} and `when I receive move `{:class="block3events"} have finished running.
 
 **Add me in: scratch-say**
 
