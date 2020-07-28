@@ -53,14 +53,14 @@ Give your project a title that matches your theme.
 --- task ---
 Copy your first sprite twice so you have three sprites which look the same.
 
-**Add:scratch-copy&rename-sprite
+**Add:scratch-copy&rename-sprite**
 
 --- /task ---
 
 --- task ---
-Rename the sprites so they are easy to recognise. Number them. For example, ChosenName1, ChosenName2, ChosenName3.
+Rename the sprites. For example, ChosenName1, ChosenName2, ChosenName3.
 
-**Tip:** Naming and numbering your sprites is a good way to know what theyare and remember the order you want them to show.
+**Tip:** Naming and numbering your sprites for Same but different will be a good way for you, and others, to recognise which sprite is which as well as the order you may want them to show.
 
 --- /task ---
 
