@@ -20,15 +20,16 @@ Copy the first costume to create a second costume. The second costume will revea
 --- /task ---
 
 --- task ---
-Rename the costumes so they are easy to recognise. For example, ChosenName1 and ChosenNameSurprise2.
+Rename the costumes so they are easy to recognise. For example, ChosenNameCostume and ChosenNameCostumeSurprise. Again, you could add numbers to help you remember the order that the Cosutmes will show.
 
 **Add me in: generic-scratch-copy-costume-rename-from-library**
 
 --- /task ---
 
 --- task ---
-Now add a surprise to the second cosutme. You could draw it in the Paint Editor or you may want to explore a graphic from another sprite's costumes. Have a thorough look at the costumes in Choose a Sprite. 
+Now add a surprise to the second Costume. You could draw the surprise in the Paint Editor or you may want to explore a graphic from another sprite's costumes in Choose a Sprite.
 
+**Add me in: scratch-drawingpainteditor-costumes**
 **Add me in: scratch-copyinggraphicFromCostume-costumes**
 
 --- no-print ---
@@ -60,13 +61,15 @@ wait (  ) seconds
 broadcast [move v] and wait :: control
 ```
 
-Read the code line by line to understand how it works using the `green flag clicked`{:class="block3events"}, `wait`{:class="block3control"} blocks and `switch costume to`{:class="block3looks"} blocks.
+Read the code above, line by line, to understand how it works using the `green flag clicked`{:class="block3events"}, `wait`{:class="block3control"} blocks and `switch costume to`{:class="block3looks"} blocks.
 
 --- /task ---
 
 --- task ---
 
 Click on the Code tab of the frist sprite.
+
+**Tip:** Always, before you add code get in to the habit of checking you are in the correct sprite's Code tab or sprite costume's Costume tab.
 
 --- /task ---
 
@@ -76,22 +79,24 @@ Add code to make your sprite change costumes.
 
 **Tip:** Don't forget to select the correct costume name for each `switch costume to`{:class="block3looks"} block from the dropdown to achieve your chosen sequence.
 
---- /task ---
-
---- task ---
-Run your program to check it's working.
+**Add me in: scratch-switchcostumetoshow-costumes**
 
 --- /task ---
 
 --- task ---
-Give the sprite a starting position on the Stage.
+Run your program to check that it is working.
+
+--- /task ---
+
+--- task ---
+Give your sprite a starting position on the Stage.
 
 **Add me in: scratch-gotoxy-costumes**
 
 --- /task ---
 
 --- task ---
-Is the sprite the size you want it to be? If not, adjust its size. Making the sprite smaller or bigger means they will look more in proportion in relation to the Backdrop. You can change the size of a sprite in two ways.
+Is the sprite the size you want it to be? If not, adjust its size. You will find making the sprite smaller or bigger means it will look more in proportion to the Backdrop. You can change the size of a sprite in two ways.
 
 **Add me in: generic-scratch-change-sizeusinglooksblock&inspritearea**
 
@@ -108,7 +113,9 @@ At the very end of the program use a broadcast block which will let all the othe
 --- /task ---
 
 --- task ---
-Your program should now look like the program above but with values filled in to suit your project. Trace your own code line by line before you run it. 
+Your program should now look like the program above but with values filled in to suit your project. 
+
+Now trace your own code line by line before you run it. 
 
 **Tip:** Code tracing is a good way to check how and if your program will work before running it.
 
@@ -116,7 +123,7 @@ Your program should now look like the program above but with values filled in to
 
 --- task ---
 
-Now run your program again. Is it working as you had planned?
+Run your program again. Is it working as you had planned?
 
 --- /task ---
 
