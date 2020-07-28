@@ -79,7 +79,7 @@ For this, you will use the Boolean `Operators`{:class="block3operators"} of `and
 --- /task ---
 
 --- task ---
-Under the above block, copy and paste the `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block. Using the same block will ensure that the first sprite's movement is unchanged whilst the block is waiting to `not`{:class="block3operators"} be `touching`{:class="block3sensing"} any of the other sprites.
+Under the above block, copy and paste the `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block. Using the same block will ensure that the first sprite's movement is unchanged whilst the sprite is waiting to `not`{:class="block3operators"} be `touching`{:class="block3sensing"} any of the other sprites.
 
 **Add me in: scratch-copyblocksofcode**
 
@@ -87,7 +87,7 @@ OR gif?
 
 --- /task ---
 
-The game will end when all the sprites are `not`{:class="block3operators"} `touching`{:class="block3sensing"} each other.  This is `sensed`{:class="block3sensing"} by colour.
+The game will end when all the sprites are `not`{:class="block3operators"} `touching`{:class="block3sensing"} each other using  the `sensing`{:class="block3sensing"} block which can detect colour.
 
 --- task ---
 Pick the border or furthermost perimeter colour from your first sprite's, first costume. If there isn't a border you may need to make one.
@@ -102,11 +102,13 @@ Pick the border or furthermost perimeter colour from your first sprite's, first 
 
 Run your code. Is it working? If not, you will need to debug!
 
-Identify what is not working. You may need to run the program again to identify the issue.
+--- /task ---
 
-In your code, go to the block/s which are not working. Often is will be a small error with the `value` or an incorrect `switch`{:class="block3motion"} costume which is stopping your program from running as you have planned.
+--- task ---
 
-**Tip:**: Ask a friend to check your code. It's sometimes easier to pick up errors if you are new to the program.
+Identify what is not working and which sprite it relates to. You may need to run the program a number of times to identify the issue.
+
+**Tip:**: Ask a friend to check your code. It's sometimes easier to pick up errors if you are new to a program.
 
 **Add me in: scratch-debug**
 
