@@ -1,6 +1,6 @@
 ## Reflect on your project
 
-How did you get on with your Same but different project? Is there anything you would do differently? 
+How did you get on with your Same but different project? What’s been most surprising to you?
 
 Remind yourself what you have learned:
 
