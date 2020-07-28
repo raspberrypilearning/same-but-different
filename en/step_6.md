@@ -12,9 +12,9 @@ Remember to select the Costume tab in the correct sprite that you want to change
 
 --- task ---
 In the Code tab of the second and third sprites add the following blocks: 
-+`when green flag clicked`{:class="block3events"}
-+`go to`{:class="block3motion"}
-+ if needed, a `set size to () %`{:class="block3looks"}
+- `when green flag clicked`{:class="block3events"}
+- `go to`{:class="block3motion"}
+- if needed, a `set size to () %`{:class="block3looks"}
 
 Remember to change the starting position of the second and third sprites so each sprite starts in different position on the Stage.
 You will need to make sure that the second and third sprite are the same size as the first sprite.
