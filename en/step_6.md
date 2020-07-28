@@ -36,16 +36,16 @@ Make sure you are in the correct sprite's Code tab.
 
 --- task ---
 
-In `when I receive move`{:class="block3events"} change the `motion`{:class="block3motion"} block so the sprites move from the place where you have selected they start from.
+In `when I receive move`{:class="block3events"}, change the `motion`{:class="block3motion"} block so the sprites move from the place where you have selected they start from.
 
 --- /task ---
 
 --- task ---
-In `when this sprite clicked`{:class="block3events"} delete the `switch costume to`{:class="block3motion"} blocks. 
+In `when this sprite clicked`{:class="block3events"}, delete the `switch costume to`{:class="block3motion"} blocks. You only need the second and third sprites to `say`{:class="block3looks"} something.
 --- /task ---
 
 --- task ---
-You only need the second and third sprites to `say`{:class="block3looks"} something. What do you want the second and third sprites to say when they are clicked?
+What do you want the second and third sprites to say when they are clicked? Add in a `say`{:class="block3looks"} block.
 
 --- /task ---
 
