@@ -74,9 +74,6 @@ You now need to make sure that the sprites will not end up layered on top of eac
 
 You need to use the Boolean `Operators`{:class="block3operators"} of `and`{:class="block3operators"} and `not`{:class="block3operators"}.
 
-The `not`{:class="block3operators"} block is a Boolean operator.
-
-
 **Add me in: scratch-and-not-operators**
 
 --- /task ---
