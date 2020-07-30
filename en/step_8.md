@@ -22,6 +22,9 @@ I found a bug in my code and fixed it
 --- task ---
 I shared my project with someone else and acted on their feedback
 --- /task ---
+--- task ---
+I remixed someone else's project
+--- /task ---
 
 Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
 
