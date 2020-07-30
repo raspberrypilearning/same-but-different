@@ -5,16 +5,16 @@ How did you get on with your Same but different project? What’s been most surp
 Remind yourself what you have learned:
 
 --- task ---
-I can use a variety of Events blocks to create different user interaction 
+I used a variety of Events blocks to create different user interaction 
 --- /task ---
 --- task ---
-I can use variables to control the speed of the program as well as the sequence the program runs
+I used variables to control the speed of the program as well as the sequence the program runs
 --- /task ---
 --- task ---
-I can modify costumes in the paint editor and switch them in a program to create an animated effect
+I modified costumes in the paint editor and switch them in a program to create an animated effect
 --- /task ---
 --- task ---
-I can use Boolean operators to control the behaviour of the sprites
+I used Boolean operators to control the behaviour of the sprites
 --- /task ---
 --- task ---
 I found a bug in my code and fixed it
