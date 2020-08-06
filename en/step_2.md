@@ -1,4 +1,4 @@
-## Develop your theme
+## Choose your theme
 Now it's time to think about your project. You need to make a Same but different game to focus the mind. The theme, sprites and costumes are up to you.
 
 --- task ---
