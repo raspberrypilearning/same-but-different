@@ -27,7 +27,7 @@ Rename the costumes so they are easy to recognise. For example, ChosenNameCostum
 --- /task ---
 
 --- task ---
-Now add a surprise to the second Costume. You could draw the surprise in the Paint Editor or you may want to explore a graphic from another sprite's costumes in Choose a Sprite.
+Now add a surprise to the second Costume. You could draw the surprise in the Paint editor or you may want to explore a graphic from another sprite's costumes in Choose a Sprite.
 
 **Add me in: scratch-drawingpainteditor-costumes**
 **Add me in: scratch-copyinggraphicFromCostume-costumes**
@@ -39,7 +39,7 @@ Now add a surprise to the second Costume. You could draw the surprise in the Pai
 --- /task ---
 
 --- task ---
-Think about where in the Paint Editor you want the surprise to go.
+Think about where in the Paint editor you want the surprise to go.
 
 Don't spend ages on the graphics. Graphics are really important but there's lots of coding to get on with as well!
 
@@ -50,7 +50,7 @@ Here's the code the first sprite uses. You will decide on the values:
 
 ```blocks3
 when flag clicked
-set size to [ ] %` :: looks
+set size to [ ] % :: looks
 go to x: ( ) y: ( )
 + switch costume to [your costume name 1 v]
 wait ( ) seconds
