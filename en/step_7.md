@@ -1,20 +1,63 @@
-## Share your project
-Share your project with someone else and act on their feedback. What improvements did they suggest you make to your project?
+## More sprites
 
-If you are in a club, why not share your project to friends and peers?
+--- task ---
 
-If you are at home, try the project out with your family. 
+The second and third sprite need the original first costume only. You can delete the other costumes, if there are any. Make sure all the sprites' first costumes are exactly the same.
 
-If you have a Scratch account you can share your project through Scratch. 
+Remember to select the Costume tab in the correct sprite that you want to change.
 
-On your projects's Project Page, complete the Instructions, Notes and Credits in the spaces provided. This will help others to engage  with your project. Leave commenting on. Encourage others with Scratch accounts to leave comments about your creation.
+**Add me in: scratch-deleting-costumes**
 
-[[[share-scratch]]]
+--- /task ---
 
-By making your project public, anyone anywhere can experience it. Scratch allows other users to copy and modify your original project by ‘remixing’ it.
+--- task ---
+In the Code tab of the second and third sprites add the following blocks: 
+- `when green flag clicked`{:class="block3events"}
+- `go to`{:class="block3motion"}
+- if needed, a `set size to () %`{:class="block3looks"}
 
-If they do remix your project, their copy automatically recognises your initial creativity by crediting you.
+Remember to change the starting position of the second and third sprites so each sprite starts in different position on the Stage.
+You will need to make sure that the second and third sprite are the same size as the first sprite.
 
-Many programmers allow others to work with their programs. This is referred to as ‘open-source’. Programmers share their code for a number of reasons. They feel good being part of a global community. It’s also an easy way to improve their program as other programmers always come up with different, and sometimes improved, solutions. Some well-know applications have been developed by an open-source community.
+--- /task ---
 
-Why not invite your friends to create a project? Let them know how you had fun.
+--- task ---
+You now need to copy the whole of the code under `when I receive move`{:class="block3events"} and `when this sprite clicked`{:class="block3events"} over to the second and third sprites.
+**Add me in: scratch-copyingcode**
+
+--- /task ---
+
+Now you need to adapt the code that you have copied over. 
+
+--- task ---
+Make sure you are in the correct sprite's Code tab.
+
+--- /task ---
+
+--- task ---
+
+In `when I receive move`{:class="block3events"}, change the `motion`{:class="block3motion"} block so the sprites move from the place where you have selected they start from.
+
+--- /task ---
+
+--- task ---
+In `when this sprite clicked`{:class="block3events"}, delete the `switch costume to`{:class="block3motion"} blocks. You only need the second and third sprites to `say`{:class="block3looks"} something.
+--- /task ---
+
+--- task ---
+What do you want the second and third sprites to say when they are clicked? Add in a `say`{:class="block3looks"} block.
+
+--- /task ---
+
+--- task ---
+Have you been testing your program by running it? Run your program now.
+--- /task ---
+
+--- task ---
+
+Now think of a distractor ssprite and program its movement across the stage to distract the players as they try to focus on the sprite with the surprise.
+
+--- /task ---
+
+--- save ---
+

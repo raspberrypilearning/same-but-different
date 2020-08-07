@@ -1,127 +1,134 @@
-## When I receive move
-Now that the costumes on the first sprite are switching and you have broadcast the end of the costume sequence you can add movement to the first sprite under a `when I receive`{:class="block3control"} block.
+## Develop first sprite's costumes
+
+Now it's time to get your first sprite working with two costumes.
+
+The sprite will `switch`{:class="block3looks"} costumes at the very beginning of the game so the user can see which sprite is the one they need to focus on.
 
 --- task ---
-Think about how you want your sprites to move. The sprites need to move in the same way so that the sprite with the surprise is harder to identify.  
---- /task ---
+Open and explore the first sprite's Costume tab.
 
---- task ---
-Look at the Backdrop you have chosen and explore how your sprites might move in relation to it. 
-
-Look at the movement of the sprites in these Same but different project examples:
-
-![Complete project](images/same_triplets.gif)
-![Complete project](images/same_hens.gif)
-![Complete project](images/same_presents.gif)
-
-**Tip:**: Linking a sprite's motion to the backdrop graphic will make your project more realistic.
-
---- /task ---
-
---- task ---
-In the first sprite's Costume tab, make sure the first costume is selected. Now the game will always start with the first costume.
-
-**Add me in: scratch-selectcostumetoshowfirsteitherusingshoworbclickingonit**
-
---- /task ---
-
---- task ---
-Try out different sprite motion to help you decide which movement is best for your first sprite.
-
-**Add me in: scratch-movesprite**
-
---- /task ---
-
---- task ---
-For a reminder of the code required under the `when I receive`{:class="block3control"} block explore the program in the project [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897).
---- /task ---
-
---- task ---
-Adjust the values of `repeat`{:class="block3control"} and `secs`{:class="block3motion"} and run the program until you are happy with the pace of the sprite. It often takes a few attempts to get a sprite animating in a way that you are happy with.
-
---- /task ---
-
---- task ---
-Run your program.
-
---- /task ---
-
---- task ---
-Instead of a fixed number of seconds, you can vary the speed that the first sprite moves by adding a `variable`{:class="block3variables} called `speed`{:class="block3variables} to the `secs`{:class="block3motion"} block.
-
-You are  going to make a slider for the speed variable so that the user can modify the speed easily when they are playing the game. 
-
-**Add me in: scratch-variables+slider+values**
+If your first sprite has got a few costumes then delete all but the first costume. 
 
 --- /task ---
 
 --- task ---
 
-You can adapt the `x`{:class="block3motion"} and `y`{:class="block3motion"} coordinates to create more specfic sprite movement.
+Copy the first costume to create a second costume. The second costume will reveal the surprise.
 
-**Add me in: scratch-movespriteusingOperators**
-
-For example, in [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor/), the sprites have a random `x`{:class="block3motion"} value and a fixed `y`{:class="block3motion"} value so that the triplets appear to be gliding along the pavement.
-
-**Add me in: scratch-randomcoordinates**
-
---- /task ---
-
-You have  used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
-
---- task ---
-You now need to make sure that the sprites will not end up layered on top of each other. To do this, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites or the edge of the Stage.
-
-For this, you will use the Boolean `Operators`{:class="block3operators"} of `and`{:class="block3operators"} and `not`{:class="block3operators"}.
-
-**Add me in: scratch-and-not-operators**
+**Add me in: generic-scratch-copy-costume-from-library**
 
 --- /task ---
 
 --- task ---
-Under the above block, copy and paste the `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block. Using the same block will ensure that the first sprite's movement is unchanged whilst the sprite is waiting to `not`{:class="block3operators"} be `touching`{:class="block3sensing"} any of the other sprites.
+Rename the costumes so they are easy to recognise. For example, ChosenNameCostume and ChosenNameCostumeSurprise. Again, you could add numbers to help you remember the order that the Cosutmes will show.
 
-**Add me in: scratch-copyblocksofcode**
-
-OR gif?
-
---- /task ---
-
-The game will end when all the sprites are `not`{:class="block3operators"} `touching`{:class="block3sensing"} each other using  the `sensing`{:class="block3sensing"} block which can detect colour.
-
---- task ---
-Pick the border or furthermost perimeter colour from your first sprite's, first costume. If there isn't a border you may need to make one.
-
-**Add me in: scratch-colornottouching-costume**
-**Add me in: scratch-creatingborder-costume**
-**Add me in: scratch-color/saturation/brightness/eyedropper-sprite**
+**Add me in: generic-scratch-copy-costume-rename-from-library**
 
 --- /task ---
 
 --- task ---
+Now add a surprise to the second Costume. You could draw the surprise in the Paint Editor or you may want to explore a graphic from another sprite's costumes in Choose a Sprite.
 
-Run your code. Is it working? If not, you will need to debug!
+**Add me in: scratch-drawingpainteditor-costumes**
+**Add me in: scratch-copyinggraphicFromCostume-costumes**
+
+--- no-print ---
+![Animated gif showing costume changing](images/character + doughnut + eyes.gif){:width="400px"}
+
+--- /no-print ---
+--- /task ---
+
+--- task ---
+Think about where in the Paint Editor you want the surprise to go.
+
+Don't spend ages on the graphics. Graphics are really important but there's lots of coding to get on with as well!
 
 --- /task ---
 
 --- task ---
+Here's the code the first sprite uses. You will decide on the values:
 
-Identify what is not working and which sprite it relates to. You may need to run the program a number of times to identify the issue.
+```blocks3
+when flag clicked
+set size to [ ] %` :: looks
+go to x: ( ) y: ( )
++ switch costume to [your costume name 1 v]
+wait ( ) seconds
++ switch costume to [your costume name 2 v]
+wait ( ) seconds
++ switch costume to [your costume name 1 v]
+wait (  ) seconds
+broadcast [move v] and wait :: control
+```
 
-**Tip:**: Ask a friend to check your code. It's sometimes easier to pick up errors if you are new to a program.
-
-**Add me in: scratch-debug**
+Read the code above, line by line, to understand how it works using the `green flag clicked`{:class="block3events"}, `wait`{:class="block3control"} blocks and `switch costume to`{:class="block3looks"} blocks.
 
 --- /task ---
 
 --- task ---
 
-Tidy up and resize your programs within the Code tab. It will be easier to see all the seperate programs as you develop more.
+Click on the Code tab of the frist sprite.
 
-**Add me in: scratch-cleanupBlocks&magnifier-organiseCodetab**
+**Tip:** Always, before you add code get in to the habit of checking you are in the correct sprite's Code tab or sprite costume's Costume tab.
 
 --- /task ---
-*[Boolean operator]: returns either of two possible values: true or false. The not operator can be used to turn a True into a False, or a False into a True i.e. if something is Not True it is False.
 
+--- task ---
+
+Add code to make your sprite change costumes.
+
+**Tip:** Don't forget to select the correct costume name for each `switch costume to`{:class="block3looks"} block from the dropdown to achieve your chosen sequence.
+
+**Add me in: scratch-switchcostumetoshow-costumes**
+
+--- /task ---
+
+--- task ---
+Run your program to check that it is working.
+
+--- /task ---
+
+--- task ---
+Give your sprite a starting position on the Stage.
+
+**Add me in: scratch-gotoxy-costumes**
+
+--- /task ---
+
+--- task ---
+Is the sprite the size you want it to be? If not, adjust its size. You will find making the sprite smaller or bigger means it will look more in proportion to the Backdrop. You can change the size of a sprite in two ways.
+
+**Add me in: generic-scratch-change-sizeusinglooksblock&inspritearea**
+
+--- /task ---
+
+--- task ---
+Run your program again to check it is working.
+
+--- /task ---
+
+--- task ---
+At the very end of the program use a broadcast block which will let all the other sprites know that they can now begin their programs simultaneously.
+
+--- /task ---
+
+--- task ---
+Your program should now look like the program above but with values filled in to suit your project. 
+
+Now trace your own code line by line before you run it. 
+
+**Tip:** Code tracing is a good way to check how and if your program will work before running it.
+
+--- /task ---
+
+--- task ---
+
+Run your program again. Is it working as you had planned?
+
+--- /task ---
+
+*[Code tracing]: simulating the execution of code by hand in order to manually check that the code works correctly before you run it.
 
 --- save ---
+
+

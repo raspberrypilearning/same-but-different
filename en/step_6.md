@@ -1,63 +1,88 @@
-## More sprites
+## Variables
 
 --- task ---
+You need to set two variables: `speed`{:class="block3variables"} and `finished`{:class="block3variables"}.
 
-The second and third sprite need the original first costume only. You can delete the other costumes, if there are any. Make sure all the sprites' first costumes are exactly the same.
-
-Remember to select the Costume tab in the correct sprite that you want to change.
-
-**Add me in: scratch-deleting-costumes**
-
---- /task ---
-
---- task ---
-In the Code tab of the second and third sprites add the following blocks: 
-- `when green flag clicked`{:class="block3events"}
-- `go to`{:class="block3motion"}
-- if needed, a `set size to () %`{:class="block3looks"}
-
-Remember to change the starting position of the second and third sprites so each sprite starts in different position on the Stage.
-You will need to make sure that the second and third sprite are the same size as the first sprite.
-
---- /task ---
-
---- task ---
-You now need to copy the whole of the code under `when I receive move`{:class="block3events"} and `when this sprite clicked`{:class="block3events"} over to the second and third sprites.
-**Add me in: scratch-copyingcode**
-
---- /task ---
-
-Now you need to adapt the code that you have copied over. 
-
---- task ---
-Make sure you are in the correct sprite's Code tab.
+**Tip:** Refresh your memory of variables by seeing inside the project [Focus on the prize](https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize).
 
 --- /task ---
 
 --- task ---
 
-In `when I receive move`{:class="block3events"}, change the `motion`{:class="block3motion"} block so the sprites move from the place where you have selected they start from.
+Create a variable called `finished`{:class="block3variables"}.
 
 --- /task ---
 
 --- task ---
-In `when this sprite clicked`{:class="block3events"}, delete the `switch costume to`{:class="block3motion"} blocks. You only need the second and third sprites to `say`{:class="block3looks"} something.
---- /task ---
 
---- task ---
-What do you want the second and third sprites to say when they are clicked? Add in a `say`{:class="block3looks"} block.
+The `speed`{:class="block3variables"} variable needs to be ticked in the Blocks area so it appears as a graphic on the Stage. 
 
---- /task ---
+**scratch-variable-stage
 
---- task ---
-Have you been testing your program by running it? Run your program now.
 --- /task ---
 
 --- task ---
 
-Now think of a distractor ssprite and program its movement across the stage to distract the players as they try to focus on the sprite with the surprise.
+When the `speed`{:class="block3variables"} variable shows in the Stage, convert it to a slider so the player will be able to vary the speed that the sprites move themselves when they play the game.
+
+**scratch-variable-slider
+
+--- /task ---
+
+--- task ---
+Add the rounded `speed`{:class="block3variables"} variable block to both the `secs`{:class="block3motion"} values.
+
+**scratch-addvariablestosecs
+
+Changing the value `1` will alter the `speed`{:class="block3variables"}. The higher the value, the faster the sprites will move, the greater the challenge.
+
+--- /task ---
+
+## `finished`{:class="block3variables"}
+
+--- task ---
+
+Create a variable called `finished`{:class="block3variables"}.
+
+--- /task ---
+
+--- task ---
+
+You will now creat two blocks: 
++`set finished to`{:class="block3variables"} with the Boolean value of `true`. 
++`set finished to`{:class="block3variables"} with the Boolean value of `false`. 
+
+**scratch-variablessettrueandfalsevalues
+
+--- /task ---
+
+-- task ---
+Investigate other example programs in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio to see where these blocks should go under `when green flag clicked`{:class="block3events"}.
+
+--- /task ---
+
+--- task ---
+
+In the Code tab, set up another control block `when this sprite clicked`{:class="block3events"}. This block will only run when it has received the condition `set finished to`{:class="block3variables"} `false` i.e when the sequence of `when green flag clicked`{:class="block3events"} has run. 
+
+--- /task ---
+
+--- task ---
+Again, explore the `say`{:class="block3looks"} and `switch costume`{:class="block3looks"} blocks under `when this sprite clicked`{:class="block3events"} in other projects in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
+
+**Tip:** Looking at other programs is a great way to get ideas for your own unique project.
+
+--- /task ---
+
+--- task ---
+Now  make the sprite with the surprise say something when it is clicked. What do you want it to say? 
+
+**Tip:** Remember, even if you click the sprite it won't say anything until `when green flag clicked`{:class="block3events"} and `when I receive move `{:class="block3events"} have finished running.
+
+**Add me in: scratch-say**
+
+**Add me in: scratch-changecostume**
 
 --- /task ---
 
 --- save ---
-

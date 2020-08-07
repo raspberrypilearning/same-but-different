@@ -1,88 +1,127 @@
-## Variables
+## When I receive move
+Now that the costumes on the first sprite are switching and you have broadcast the end of the costume sequence you can add movement to the first sprite under a `when I receive`{:class="block3control"} block.
 
 --- task ---
-You need to set two variables: `speed`{:class="block3variables"} and `finished`{:class="block3variables"}.
+Think about how you want your sprites to move. The sprites need to move in the same way so that the sprite with the surprise is harder to identify.  
+--- /task ---
 
-**Tip:** Refresh your memory of variables by seeing inside the project [Focus on the prize](https://learning-admin.raspberrypi.org/en/projects/focus-on-the-prize).
+--- task ---
+Look at the Backdrop you have chosen and explore how your sprites might move in relation to it. 
+
+Look at the movement of the sprites in these Same but different project examples:
+
+![Complete project](images/same_triplets.gif)
+![Complete project](images/same_hens.gif)
+![Complete project](images/same_presents.gif)
+
+**Tip:**: Linking a sprite's motion to the backdrop graphic will make your project more realistic.
 
 --- /task ---
 
 --- task ---
+In the first sprite's Costume tab, make sure the first costume is selected. Now the game will always start with the first costume.
 
-Create a variable called `finished`{:class="block3variables"}.
-
---- /task ---
-
---- task ---
-
-The `speed`{:class="block3variables"} variable needs to be ticked in the Blocks area so it appears as a graphic on the Stage. 
-
-**scratch-variable-stage
+**Add me in: scratch-selectcostumetoshowfirsteitherusingshoworbclickingonit**
 
 --- /task ---
 
 --- task ---
+Try out different sprite motion to help you decide which movement is best for your first sprite.
 
-When the `speed`{:class="block3variables"} variable shows in the Stage, convert it to a slider so the player will be able to vary the speed that the sprites move themselves when they play the game.
-
-**scratch-variable-slider
-
---- /task ---
-
---- task ---
-Add the rounded `speed`{:class="block3variables"} variable block to both the `secs`{:class="block3motion"} values.
-
-**scratch-addvariablestosecs
-
-Changing the value `1` will alter the `speed`{:class="block3variables"}. The higher the value, the faster the sprites will move, the greater the challenge.
-
---- /task ---
-
-## `finished`{:class="block3variables"}
-
---- task ---
-
-Create a variable called `finished`{:class="block3variables"}.
+**Add me in: scratch-movesprite**
 
 --- /task ---
 
 --- task ---
+For a reminder of the code required under the `when I receive`{:class="block3control"} block explore the program in the project [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897).
+--- /task ---
 
-You will now creat two blocks: 
-+`set finished to`{:class="block3variables"} with the Boolean value of `true`. 
-+`set finished to`{:class="block3variables"} with the Boolean value of `false`. 
-
-**scratch-variablessettrueandfalsevalues
+--- task ---
+Adjust the values of `repeat`{:class="block3control"} and `secs`{:class="block3motion"} and run the program until you are happy with the pace of the sprite. It often takes a few attempts to get a sprite animating in a way that you are happy with.
 
 --- /task ---
 
--- task ---
-Investigate other example programs in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio to see where these blocks should go under `when green flag clicked`{:class="block3events"}.
+--- task ---
+Run your program.
+
+--- /task ---
+
+--- task ---
+Instead of a fixed number of seconds, you can vary the speed that the first sprite moves by adding a `variable`{:class="block3variables} called `speed`{:class="block3variables} to the `secs`{:class="block3motion"} block.
+
+You are  going to make a slider for the speed variable so that the user can modify the speed easily when they are playing the game. 
+
+**Add me in: scratch-variables+slider+values**
 
 --- /task ---
 
 --- task ---
 
-In the Code tab, set up another control block `when this sprite clicked`{:class="block3events"}. This block will only run when it has received the condition `set finished to`{:class="block3variables"} `false` i.e when the sequence of `when green flag clicked`{:class="block3events"} has run. 
+You can adapt the `x`{:class="block3motion"} and `y`{:class="block3motion"} coordinates to create more specfic sprite movement.
+
+**Add me in: scratch-movespriteusingOperators**
+
+For example, in [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor/), the sprites have a random `x`{:class="block3motion"} value and a fixed `y`{:class="block3motion"} value so that the triplets appear to be gliding along the pavement.
+
+**Add me in: scratch-randomcoordinates**
+
+--- /task ---
+
+You have  used a `repeat`{:class="block3control"} block to control the number of times the first sprite moves. 
+
+--- task ---
+You now need to make sure that the sprites will not end up layered on top of each other. To do this, you will use the `repeat until`{:class="block3control"} to ensure the first sprite moves until it is `not`{:class="block3operators"} `touching`{:class="block3sensing"} any of the other sprites or the edge of the Stage.
+
+For this, you will use the Boolean `Operators`{:class="block3operators"} of `and`{:class="block3operators"} and `not`{:class="block3operators"}.
+
+**Add me in: scratch-and-not-operators**
 
 --- /task ---
 
 --- task ---
-Again, explore the `say`{:class="block3looks"} and `switch costume`{:class="block3looks"} blocks under `when this sprite clicked`{:class="block3events"} in other projects in the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
+Under the above block, copy and paste the `motion`{:class="block3motion"} block which you created within the`repeat`{:class="block3control"} block. Using the same block will ensure that the first sprite's movement is unchanged whilst the sprite is waiting to `not`{:class="block3operators"} be `touching`{:class="block3sensing"} any of the other sprites.
 
-**Tip:** Looking at other programs is a great way to get ideas for your own unique project.
+**Add me in: scratch-copyblocksofcode**
+
+OR gif?
+
+--- /task ---
+
+The game will end when all the sprites are `not`{:class="block3operators"} `touching`{:class="block3sensing"} each other using  the `sensing`{:class="block3sensing"} block which can detect colour.
+
+--- task ---
+Pick the border or furthermost perimeter colour from your first sprite's, first costume. If there isn't a border you may need to make one.
+
+**Add me in: scratch-colornottouching-costume**
+**Add me in: scratch-creatingborder-costume**
+**Add me in: scratch-color/saturation/brightness/eyedropper-sprite**
 
 --- /task ---
 
 --- task ---
-Now  make the sprite with the surprise say something when it is clicked. What do you want it to say? 
 
-**Tip:** Remember, even if you click the sprite it won't say anything until `when green flag clicked`{:class="block3events"} and `when I receive move `{:class="block3events"} have finished running.
-
-**Add me in: scratch-say**
-
-**Add me in: scratch-changecostume**
+Run your code. Is it working? If not, you will need to debug!
 
 --- /task ---
+
+--- task ---
+
+Identify what is not working and which sprite it relates to. You may need to run the program a number of times to identify the issue.
+
+**Tip:**: Ask a friend to check your code. It's sometimes easier to pick up errors if you are new to a program.
+
+**Add me in: scratch-debug**
+
+--- /task ---
+
+--- task ---
+
+Tidy up and resize your programs within the Code tab. It will be easier to see all the seperate programs as you develop more.
+
+**Add me in: scratch-cleanupBlocks&magnifier-organiseCodetab**
+
+--- /task ---
+*[Boolean operator]: returns either of two possible values: true or false. The not operator can be used to turn a True into a False, or a False into a True i.e. if something is Not True it is False.
+
 
 --- save ---

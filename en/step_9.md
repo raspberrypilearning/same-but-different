@@ -1,5 +1,31 @@
-## What Next?
+## Reflect on your project
 
-If you have completed all the Skills and Challenge projects in the Look After Yourself learning journey you should now go on to the Independent project [Digital Card](https://learning-admin.raspberrypi.org/en/projects/digital-card) where you will utilise your breadth of skills and increased independence to create your very own project.
+How did you get on with your Same but different project? What’s been most surprising to you?
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch).
+Remind yourself what you have learned:
+
+--- task ---
+I used a variety of Events blocks to create different user interaction 
+--- /task ---
+--- task ---
+I used variables to control the speed of the program as well as the sequence the program runs
+--- /task ---
+--- task ---
+I modified costumes in the paint editor and switch them in a program to create an animated effect
+--- /task ---
+--- task ---
+I used Boolean operators to control the behaviour of the sprites
+--- /task ---
+--- task ---
+I found a bug in my code and fixed it
+--- /task ---
+--- task ---
+I shared my project with someone else and acted on their feedback
+--- /task ---
+--- task ---
+I remixed someone else's project
+--- /task ---
+
+Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
+
+You can go back and improve your project whenever you have time.

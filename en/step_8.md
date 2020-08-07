@@ -1,31 +1,20 @@
-## Reflect on your project
+## Share your project
+Share your project with someone else and act on their feedback. What improvements did they suggest you make to your project?
 
-How did you get on with your Same but different project? What’s been most surprising to you?
+If you are in a club, why not share your project to friends and peers?
 
-Remind yourself what you have learned:
+If you are at home, try the project out with your family. 
 
---- task ---
-I used a variety of Events blocks to create different user interaction 
---- /task ---
---- task ---
-I used variables to control the speed of the program as well as the sequence the program runs
---- /task ---
---- task ---
-I modified costumes in the paint editor and switch them in a program to create an animated effect
---- /task ---
---- task ---
-I used Boolean operators to control the behaviour of the sprites
---- /task ---
---- task ---
-I found a bug in my code and fixed it
---- /task ---
---- task ---
-I shared my project with someone else and acted on their feedback
---- /task ---
---- task ---
-I remixed someone else's project
---- /task ---
+If you have a Scratch account you can share your project through Scratch. 
 
-Demonstrating these skills will contribute to the [Scratch Beginner]() and [Citizen Maker]() badges. 
+On your projects's Project Page, complete the Instructions, Notes and Credits in the spaces provided. This will help others to engage  with your project. Leave commenting on. Encourage others with Scratch accounts to leave comments about your creation.
 
-You can go back and improve your project whenever you have time.
+[[[share-scratch]]]
+
+By making your project public, anyone anywhere can experience it. Scratch allows other users to copy and modify your original project by ‘remixing’ it.
+
+If they do remix your project, their copy automatically recognises your initial creativity by crediting you.
+
+Many programmers allow others to work with their programs. This is referred to as ‘open-source’. Programmers share their code for a number of reasons. They feel good being part of a global community. It’s also an easy way to improve their program as other programmers always come up with different, and sometimes improved, solutions. Some well-know applications have been developed by an open-source community.
+
+Why not invite your friends to create a project? Let them know how you had fun.
