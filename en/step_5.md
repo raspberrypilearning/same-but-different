@@ -47,7 +47,7 @@ Run your program.
 --- /task ---
 
 --- task ---
-Instead of a fixed number of seconds, you can vary the speed that the first sprite moves by adding a `variable`{:class="block3variables} called `speed`{:class="block3variables} to the `secs`{:class="block3motion"} block.
+Instead of a fixed number of seconds, you can vary the speed that the first sprite moves by adding a `variable`{:class="block3variables"} called `speed`{:class="block3variables"} to the `secs`{:class="block3motion"} block.
 
 You are  going to make a slider for the speed variable so that the user can modify the speed easily when they are playing the game. 
 
