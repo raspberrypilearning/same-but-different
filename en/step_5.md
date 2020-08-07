@@ -1,5 +1,5 @@
 ## When I receive move
-Now that the costumes on the first sprite are switching and you have broadcast the end of the costume sequence you can add movement to the first sprite under a `when I receive`{:class="block3control"} block.
+Now that the costumes on the first sprite are switching and you have broadcast at the end of the costume sequence you can add movement to the first sprite under a `when I receive`{:class="block3control"} block.
 
 --- task ---
 Think about how you want your sprites to move. The sprites need to move in the same way so that the sprite with the surprise is harder to identify.  
@@ -14,7 +14,7 @@ Look at the movement of the sprites in these Same but different project examples
 ![Complete project](images/same_hens.gif)
 ![Complete project](images/same_presents.gif)
 
-**Tip:**: Linking a sprite's motion to the backdrop graphic will make your project more realistic.
+**Tip:** Linking a sprite's motion to the backdrop graphic will make your project more realistic.
 
 --- /task ---
 
@@ -33,7 +33,7 @@ Try out different sprite motion to help you decide which movement is best for yo
 --- /task ---
 
 --- task ---
-For a reminder of the code required under the `when I receive`{:class="block3control"} block explore the program in the project [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897).
+For a reminder of the code required under the `when I receive`{:class="block3control"} block explore the code in the [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor) project.
 --- /task ---
 
 --- task ---

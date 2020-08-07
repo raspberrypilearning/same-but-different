@@ -45,7 +45,6 @@ Don't spend ages on the graphics. Graphics are really important but there's lots
 
 --- /task ---
 
---- task ---
 Here's the code the first sprite uses. You will decide on the values:
 
 ```blocks3
@@ -63,13 +62,11 @@ broadcast [move v] and wait :: control
 
 Read the code above, line by line, to understand how it works using the `green flag clicked`{:class="block3events"}, `wait`{:class="block3control"} blocks and `switch costume to`{:class="block3looks"} blocks.
 
---- /task ---
-
 --- task ---
 
-Click on the Code tab of the frist sprite.
+Click on the Code tab of the first sprite.
 
-**Tip:** Always, before you add code get in to the habit of checking you are in the correct sprite's Code tab or sprite costume's Costume tab.
+**Tip:** Before you add code get into the habit of checking you have the correct sprite selected.
 
 --- /task ---
 
