@@ -33,7 +33,7 @@ Try out different sprite motion to help you decide which movement is best for yo
 --- /task ---
 
 --- task ---
-For a reminder of the code required under the `when I receive`{:class="block3control"} block explore the code in the [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor) project.
+For a reminder of the code required under the `when I receive`{:class="block3control"} block explore the code in the [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor){:target=”_blank”} project.
 --- /task ---
 
 --- task ---
