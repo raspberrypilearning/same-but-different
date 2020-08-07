@@ -1,25 +1,8 @@
 ## Choose your theme
+
 Now it's time to think about your project. You need to make a Same but different game to focus the mind. The theme, sprites and costumes are up to you.
 
---- task ---
-Get ideas for your project Same but different by investigating projects created by others. 
 
-Go to the [Same but different](https://scratch.mit.edu/studios/27154226){:target="_blank"} Scratch studio.
-
-Click 'See inside' to investigate how the projects were made.
-
-**Tip:** Explore the first sprite's costumes. Adapting costumes is a great way to simply create an animated sprite.
-
-![See inside icon](images/see_inside.png)
-
---- /task ---
-
---- task ---
-Create a new Scratch project to start trying out your ideas.
-
-If you have a Scratch account, sign in first and then create a new project.
-
---- /task ---
 
 --- task ---
 Take 5 minutes to think about **your** Same but different project. 
