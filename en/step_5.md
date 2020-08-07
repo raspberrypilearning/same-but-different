@@ -61,7 +61,7 @@ You can adapt the `x`{:class="block3motion"} and `y`{:class="block3motion"} coor
 
 **Add me in: scratch-movespriteusingOperators**
 
-For example, in [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor/), the sprites have a random `x`{:class="block3motion"} value and a fixed `y`{:class="block3motion"} value so that the triplets appear to be gliding along the pavement.
+For example, in [Which triplet ate the doughnut?](https://scratch.mit.edu/projects/411558897/editor){:target=”_blank”}, the sprites have a random `x`{:class="block3motion"} value and a fixed `y`{:class="block3motion"} value so that the triplets appear to be gliding along the pavement.
 
 **Add me in: scratch-randomcoordinates**
 
